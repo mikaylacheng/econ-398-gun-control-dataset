@@ -1,0 +1,2398 @@
+state,year,is_democrat,dem,rep
+Alabama,1976,True,55.7,42.6
+Alabama,1977,True,55.7,42.6
+Alabama,1978,True,55.7,42.6
+Alabama,1979,True,55.7,42.6
+Alabama,1980,False,47.5,48.8
+Alabama,1981,False,47.5,48.8
+Alabama,1982,False,47.5,48.8
+Alabama,1983,False,47.5,48.8
+Alabama,1984,False,38.3,60.5
+Alabama,1985,False,38.3,60.5
+Alabama,1986,False,38.3,60.5
+Alabama,1987,False,38.3,60.5
+Alabama,1988,False,39.9,59.2
+Alabama,1989,False,39.9,59.2
+Alabama,1990,False,39.9,59.2
+Alabama,1991,False,39.9,59.2
+Alabama,1992,False,40.9,47.6
+Alabama,1993,False,40.9,47.6
+Alabama,1994,False,40.9,47.6
+Alabama,1995,False,40.9,47.6
+Alabama,1996,False,43.2,50.1
+Alabama,1997,False,43.2,50.1
+Alabama,1998,False,43.2,50.1
+Alabama,1999,False,43.2,50.1
+Alabama,2000,False,41.6,56.5
+Alabama,2001,False,41.6,56.5
+Alabama,2002,False,41.6,56.5
+Alabama,2003,False,41.6,56.5
+Alabama,2004,False,36.8,62.5
+Alabama,2005,False,36.8,62.5
+Alabama,2006,False,36.8,62.5
+Alabama,2007,False,36.8,62.5
+Alabama,2008,False,38.7,60.3
+Alabama,2009,False,38.7,60.3
+Alabama,2010,False,38.7,60.3
+Alabama,2011,False,38.7,60.3
+Alabama,2012,False,38.4,60.6
+Alabama,2013,False,38.4,60.6
+Alabama,2014,False,38.4,60.6
+Alabama,2015,False,38.4,60.6
+Alabama,2016,False,34.4,62.1
+Alabama,2017,False,34.4,62.1
+Alabama,2018,False,34.4,62.1
+Alabama,2019,False,34.4,62.1
+Alabama,2020,False,36.6,62.0
+Alabama,2021,False,36.6,62.0
+Alabama,2022,False,36.6,62.0
+Alaska,1976,False,35.7,57.9
+Alaska,1977,False,35.7,57.9
+Alaska,1978,False,35.7,57.9
+Alaska,1979,False,35.7,57.9
+Alaska,1980,False,26.4,54.4
+Alaska,1981,False,26.4,54.4
+Alaska,1982,False,26.4,54.4
+Alaska,1983,False,26.4,54.4
+Alaska,1984,False,29.9,66.7
+Alaska,1985,False,29.9,66.7
+Alaska,1986,False,29.9,66.7
+Alaska,1987,False,29.9,66.7
+Alaska,1988,False,36.3,59.6
+Alaska,1989,False,36.3,59.6
+Alaska,1990,False,36.3,59.6
+Alaska,1991,False,36.3,59.6
+Alaska,1992,False,30.3,39.5
+Alaska,1993,False,30.3,39.5
+Alaska,1994,False,30.3,39.5
+Alaska,1995,False,30.3,39.5
+Alaska,1996,False,33.3,50.8
+Alaska,1997,False,33.3,50.8
+Alaska,1998,False,33.3,50.8
+Alaska,1999,False,33.3,50.8
+Alaska,2000,False,27.7,58.6
+Alaska,2001,False,27.7,58.6
+Alaska,2002,False,27.7,58.6
+Alaska,2003,False,27.7,58.6
+Alaska,2004,False,35.5,61.1
+Alaska,2005,False,35.5,61.1
+Alaska,2006,False,35.5,61.1
+Alaska,2007,False,35.5,61.1
+Alaska,2008,False,37.9,59.4
+Alaska,2009,False,37.9,59.4
+Alaska,2010,False,37.9,59.4
+Alaska,2011,False,37.9,59.4
+Alaska,2012,False,40.8,54.8
+Alaska,2013,False,40.8,54.8
+Alaska,2014,False,40.8,54.8
+Alaska,2015,False,40.8,54.8
+Alaska,2016,False,36.6,51.3
+Alaska,2017,False,36.6,51.3
+Alaska,2018,False,36.6,51.3
+Alaska,2019,False,36.6,51.3
+Alaska,2020,False,42.8,52.8
+Alaska,2021,False,42.8,52.8
+Alaska,2022,False,42.8,52.8
+Arizona,1976,False,39.8,56.4
+Arizona,1977,False,39.8,56.4
+Arizona,1978,False,39.8,56.4
+Arizona,1979,False,39.8,56.4
+Arizona,1980,False,28.2,60.6
+Arizona,1981,False,28.2,60.6
+Arizona,1982,False,28.2,60.6
+Arizona,1983,False,28.2,60.6
+Arizona,1984,False,32.5,66.4
+Arizona,1985,False,32.5,66.4
+Arizona,1986,False,32.5,66.4
+Arizona,1987,False,32.5,66.4
+Arizona,1988,False,38.7,60.0
+Arizona,1989,False,38.7,60.0
+Arizona,1990,False,38.7,60.0
+Arizona,1991,False,38.7,60.0
+Arizona,1992,False,36.5,38.5
+Arizona,1993,False,36.5,38.5
+Arizona,1994,False,36.5,38.5
+Arizona,1995,False,36.5,38.5
+Arizona,1996,True,46.5,44.3
+Arizona,1997,True,46.5,44.3
+Arizona,1998,True,46.5,44.3
+Arizona,1999,True,46.5,44.3
+Arizona,2000,False,44.7,51.0
+Arizona,2001,False,44.7,51.0
+Arizona,2002,False,44.7,51.0
+Arizona,2003,False,44.7,51.0
+Arizona,2004,False,44.4,54.9
+Arizona,2005,False,44.4,54.9
+Arizona,2006,False,44.4,54.9
+Arizona,2007,False,44.4,54.9
+Arizona,2008,False,45.1,53.6
+Arizona,2009,False,45.1,53.6
+Arizona,2010,False,45.1,53.6
+Arizona,2011,False,45.1,53.6
+Arizona,2012,False,44.6,53.7
+Arizona,2013,False,44.6,53.7
+Arizona,2014,False,44.6,53.7
+Arizona,2015,False,44.6,53.7
+Arizona,2016,False,45.1,48.7
+Arizona,2017,False,45.1,48.7
+Arizona,2018,False,45.1,48.7
+Arizona,2019,False,45.1,48.7
+Arizona,2020,True,49.4,49.1
+Arizona,2021,True,49.4,49.1
+Arizona,2022,True,49.4,49.1
+Arkansas,1976,True,64.9,34.9
+Arkansas,1977,True,64.9,34.9
+Arkansas,1978,True,64.9,34.9
+Arkansas,1979,True,64.9,34.9
+Arkansas,1980,False,47.5,48.1
+Arkansas,1981,False,47.5,48.1
+Arkansas,1982,False,47.5,48.1
+Arkansas,1983,False,47.5,48.1
+Arkansas,1984,False,38.3,60.5
+Arkansas,1985,False,38.3,60.5
+Arkansas,1986,False,38.3,60.5
+Arkansas,1987,False,38.3,60.5
+Arkansas,1988,False,42.2,56.4
+Arkansas,1989,False,42.2,56.4
+Arkansas,1990,False,42.2,56.4
+Arkansas,1991,False,42.2,56.4
+Arkansas,1992,True,53.2,35.5
+Arkansas,1993,True,53.2,35.5
+Arkansas,1994,True,53.2,35.5
+Arkansas,1995,True,53.2,35.5
+Arkansas,1996,True,53.7,36.8
+Arkansas,1997,True,53.7,36.8
+Arkansas,1998,True,53.7,36.8
+Arkansas,1999,True,53.7,36.8
+Arkansas,2000,False,45.9,51.3
+Arkansas,2001,False,45.9,51.3
+Arkansas,2002,False,45.9,51.3
+Arkansas,2003,False,45.9,51.3
+Arkansas,2004,False,44.6,54.3
+Arkansas,2005,False,44.6,54.3
+Arkansas,2006,False,44.6,54.3
+Arkansas,2007,False,44.6,54.3
+Arkansas,2008,False,38.9,58.7
+Arkansas,2009,False,38.9,58.7
+Arkansas,2010,False,38.9,58.7
+Arkansas,2011,False,38.9,58.7
+Arkansas,2012,False,36.9,60.6
+Arkansas,2013,False,36.9,60.6
+Arkansas,2014,False,36.9,60.6
+Arkansas,2015,False,36.9,60.6
+Arkansas,2016,False,33.7,60.6
+Arkansas,2017,False,33.7,60.6
+Arkansas,2018,False,33.7,60.6
+Arkansas,2019,False,33.7,60.6
+Arkansas,2020,False,34.8,62.4
+Arkansas,2021,False,34.8,62.4
+Arkansas,2022,False,34.8,62.4
+California,1976,False,47.6,49.4
+California,1977,False,47.6,49.4
+California,1978,False,47.6,49.4
+California,1979,False,47.6,49.4
+California,1980,False,35.9,52.7
+California,1981,False,35.9,52.7
+California,1982,False,35.9,52.7
+California,1983,False,35.9,52.7
+California,1984,False,41.3,57.5
+California,1985,False,41.3,57.5
+California,1986,False,41.3,57.5
+California,1987,False,41.3,57.5
+California,1988,False,47.6,51.1
+California,1989,False,47.6,51.1
+California,1990,False,47.6,51.1
+California,1991,False,47.6,51.1
+California,1992,True,46.0,32.6
+California,1993,True,46.0,32.6
+California,1994,True,46.0,32.6
+California,1995,True,46.0,32.6
+California,1996,True,51.1,38.2
+California,1997,True,51.1,38.2
+California,1998,True,51.1,38.2
+California,1999,True,51.1,38.2
+California,2000,True,53.5,41.7
+California,2001,True,53.5,41.7
+California,2002,True,53.5,41.7
+California,2003,True,53.5,41.7
+California,2004,True,54.3,44.4
+California,2005,True,54.3,44.4
+California,2006,True,54.3,44.4
+California,2007,True,54.3,44.4
+California,2008,True,61.0,37.0
+California,2009,True,61.0,37.0
+California,2010,True,61.0,37.0
+California,2011,True,61.0,37.0
+California,2012,True,60.2,37.1
+California,2013,True,60.2,37.1
+California,2014,True,60.2,37.1
+California,2015,True,60.2,37.1
+California,2016,True,61.7,31.6
+California,2017,True,61.7,31.6
+California,2018,True,61.7,31.6
+California,2019,True,61.7,31.6
+California,2020,True,63.5,34.3
+California,2021,True,63.5,34.3
+California,2022,True,63.5,34.3
+Colorado,1976,False,42.6,54.1
+Colorado,1977,False,42.6,54.1
+Colorado,1978,False,42.6,54.1
+Colorado,1979,False,42.6,54.1
+Colorado,1980,False,31.1,55.1
+Colorado,1981,False,31.1,55.1
+Colorado,1982,False,31.1,55.1
+Colorado,1983,False,31.1,55.1
+Colorado,1984,False,35.1,63.4
+Colorado,1985,False,35.1,63.4
+Colorado,1986,False,35.1,63.4
+Colorado,1987,False,35.1,63.4
+Colorado,1988,False,45.3,53.1
+Colorado,1989,False,45.3,53.1
+Colorado,1990,False,45.3,53.1
+Colorado,1991,False,45.3,53.1
+Colorado,1992,True,40.1,35.9
+Colorado,1993,True,40.1,35.9
+Colorado,1994,True,40.1,35.9
+Colorado,1995,True,40.1,35.9
+Colorado,1996,False,44.4,45.8
+Colorado,1997,False,44.4,45.8
+Colorado,1998,False,44.4,45.8
+Colorado,1999,False,44.4,45.8
+Colorado,2000,False,42.4,50.8
+Colorado,2001,False,42.4,50.8
+Colorado,2002,False,42.4,50.8
+Colorado,2003,False,42.4,50.8
+Colorado,2004,False,47.0,51.7
+Colorado,2005,False,47.0,51.7
+Colorado,2006,False,47.0,51.7
+Colorado,2007,False,47.0,51.7
+Colorado,2008,True,53.7,44.7
+Colorado,2009,True,53.7,44.7
+Colorado,2010,True,53.7,44.7
+Colorado,2011,True,53.7,44.7
+Colorado,2012,True,51.5,46.1
+Colorado,2013,True,51.5,46.1
+Colorado,2014,True,51.5,46.1
+Colorado,2015,True,51.5,46.1
+Colorado,2016,True,48.2,43.3
+Colorado,2017,True,48.2,43.3
+Colorado,2018,True,48.2,43.3
+Colorado,2019,True,48.2,43.3
+Colorado,2020,True,55.4,41.9
+Colorado,2021,True,55.4,41.9
+Colorado,2022,True,55.4,41.9
+Connecticut,1976,False,46.9,52.1
+Connecticut,1977,False,46.9,52.1
+Connecticut,1978,False,46.9,52.1
+Connecticut,1979,False,46.9,52.1
+Connecticut,1980,False,38.5,48.2
+Connecticut,1981,False,38.5,48.2
+Connecticut,1982,False,38.5,48.2
+Connecticut,1983,False,38.5,48.2
+Connecticut,1984,False,38.8,60.7
+Connecticut,1985,False,38.8,60.7
+Connecticut,1986,False,38.8,60.7
+Connecticut,1987,False,38.8,60.7
+Connecticut,1988,False,46.9,52.0
+Connecticut,1989,False,46.9,52.0
+Connecticut,1990,False,46.9,52.0
+Connecticut,1991,False,46.9,52.0
+Connecticut,1992,True,42.2,35.8
+Connecticut,1993,True,42.2,35.8
+Connecticut,1994,True,42.2,35.8
+Connecticut,1995,True,42.2,35.8
+Connecticut,1996,True,52.8,34.7
+Connecticut,1997,True,52.8,34.7
+Connecticut,1998,True,52.8,34.7
+Connecticut,1999,True,52.8,34.7
+Connecticut,2000,True,55.9,38.4
+Connecticut,2001,True,55.9,38.4
+Connecticut,2002,True,55.9,38.4
+Connecticut,2003,True,55.9,38.4
+Connecticut,2004,True,54.3,44.0
+Connecticut,2005,True,54.3,44.0
+Connecticut,2006,True,54.3,44.0
+Connecticut,2007,True,54.3,44.0
+Connecticut,2008,True,60.6,38.2
+Connecticut,2009,True,60.6,38.2
+Connecticut,2010,True,60.6,38.2
+Connecticut,2011,True,60.6,38.2
+Connecticut,2012,True,58.1,40.7
+Connecticut,2013,True,58.1,40.7
+Connecticut,2014,True,58.1,40.7
+Connecticut,2015,True,58.1,40.7
+Connecticut,2016,True,54.6,40.9
+Connecticut,2017,True,54.6,40.9
+Connecticut,2018,True,54.6,40.9
+Connecticut,2019,True,54.6,40.9
+Connecticut,2020,True,59.2,39.2
+Connecticut,2021,True,59.2,39.2
+Connecticut,2022,True,59.2,39.2
+Delaware,1976,True,52.0,46.6
+Delaware,1977,True,52.0,46.6
+Delaware,1978,True,52.0,46.6
+Delaware,1979,True,52.0,46.6
+Delaware,1980,False,44.9,47.2
+Delaware,1981,False,44.9,47.2
+Delaware,1982,False,44.9,47.2
+Delaware,1983,False,44.9,47.2
+Delaware,1984,False,39.9,59.8
+Delaware,1985,False,39.9,59.8
+Delaware,1986,False,39.9,59.8
+Delaware,1987,False,39.9,59.8
+Delaware,1988,False,43.5,55.9
+Delaware,1989,False,43.5,55.9
+Delaware,1990,False,43.5,55.9
+Delaware,1991,False,43.5,55.9
+Delaware,1992,True,43.5,35.3
+Delaware,1993,True,43.5,35.3
+Delaware,1994,True,43.5,35.3
+Delaware,1995,True,43.5,35.3
+Delaware,1996,True,51.8,36.6
+Delaware,1997,True,51.8,36.6
+Delaware,1998,True,51.8,36.6
+Delaware,1999,True,51.8,36.6
+Delaware,2000,True,55.0,41.9
+Delaware,2001,True,55.0,41.9
+Delaware,2002,True,55.0,41.9
+Delaware,2003,True,55.0,41.9
+Delaware,2004,True,53.4,45.8
+Delaware,2005,True,53.4,45.8
+Delaware,2006,True,53.4,45.8
+Delaware,2007,True,53.4,45.8
+Delaware,2008,True,61.9,37.0
+Delaware,2009,True,61.9,37.0
+Delaware,2010,True,61.9,37.0
+Delaware,2011,True,61.9,37.0
+Delaware,2012,True,58.6,40.0
+Delaware,2013,True,58.6,40.0
+Delaware,2014,True,58.6,40.0
+Delaware,2015,True,58.6,40.0
+Delaware,2016,True,53.1,41.7
+Delaware,2017,True,53.1,41.7
+Delaware,2018,True,53.1,41.7
+Delaware,2019,True,53.1,41.7
+Delaware,2020,True,58.7,39.8
+Delaware,2021,True,58.7,39.8
+Delaware,2022,True,58.7,39.8
+District of Columbia,1976,True,81.6,16.5
+District of Columbia,1977,True,81.6,16.5
+District of Columbia,1978,True,81.6,16.5
+District of Columbia,1979,True,81.6,16.5
+District of Columbia,1980,True,74.9,13.4
+District of Columbia,1981,True,74.9,13.4
+District of Columbia,1982,True,74.9,13.4
+District of Columbia,1983,True,74.9,13.4
+District of Columbia,1984,True,85.4,13.7
+District of Columbia,1985,True,85.4,13.7
+District of Columbia,1986,True,85.4,13.7
+District of Columbia,1987,True,85.4,13.7
+District of Columbia,1988,True,82.7,14.3
+District of Columbia,1989,True,82.7,14.3
+District of Columbia,1990,True,82.7,14.3
+District of Columbia,1991,True,82.7,14.3
+District of Columbia,1992,True,84.6,9.1
+District of Columbia,1993,True,84.6,9.1
+District of Columbia,1994,True,84.6,9.1
+District of Columbia,1995,True,84.6,9.1
+District of Columbia,1996,True,85.2,9.3
+District of Columbia,1997,True,85.2,9.3
+District of Columbia,1998,True,85.2,9.3
+District of Columbia,1999,True,85.2,9.3
+District of Columbia,2000,True,85.2,9.0
+District of Columbia,2001,True,85.2,9.0
+District of Columbia,2002,True,85.2,9.0
+District of Columbia,2003,True,85.2,9.0
+District of Columbia,2004,True,89.2,9.3
+District of Columbia,2005,True,89.2,9.3
+District of Columbia,2006,True,89.2,9.3
+District of Columbia,2007,True,89.2,9.3
+District of Columbia,2008,True,92.5,6.5
+District of Columbia,2009,True,92.5,6.5
+District of Columbia,2010,True,92.5,6.5
+District of Columbia,2011,True,92.5,6.5
+District of Columbia,2012,True,90.9,7.3
+District of Columbia,2013,True,90.9,7.3
+District of Columbia,2014,True,90.9,7.3
+District of Columbia,2015,True,90.9,7.3
+District of Columbia,2016,True,90.9,4.1
+District of Columbia,2017,True,90.9,4.1
+District of Columbia,2018,True,90.9,4.1
+District of Columbia,2019,True,90.9,4.1
+District of Columbia,2020,True,92.2,5.4
+District of Columbia,2021,True,92.2,5.4
+District of Columbia,2022,True,92.2,5.4
+Florida,1976,True,51.9,46.6
+Florida,1977,True,51.9,46.6
+Florida,1978,True,51.9,46.6
+Florida,1979,True,51.9,46.6
+Florida,1980,False,38.5,55.5
+Florida,1981,False,38.5,55.5
+Florida,1982,False,38.5,55.5
+Florida,1983,False,38.5,55.5
+Florida,1984,False,34.7,65.3
+Florida,1985,False,34.7,65.3
+Florida,1986,False,34.7,65.3
+Florida,1987,False,34.7,65.3
+Florida,1988,False,38.5,60.9
+Florida,1989,False,38.5,60.9
+Florida,1990,False,38.5,60.9
+Florida,1991,False,38.5,60.9
+Florida,1992,False,39.0,40.9
+Florida,1993,False,39.0,40.9
+Florida,1994,False,39.0,40.9
+Florida,1995,False,39.0,40.9
+Florida,1996,True,48.0,42.3
+Florida,1997,True,48.0,42.3
+Florida,1998,True,48.0,42.3
+Florida,1999,True,48.0,42.3
+Florida,2000,False,48.8,48.9
+Florida,2001,False,48.8,48.9
+Florida,2002,False,48.8,48.9
+Florida,2003,False,48.8,48.9
+Florida,2004,False,47.1,52.1
+Florida,2005,False,47.1,52.1
+Florida,2006,False,47.1,52.1
+Florida,2007,False,47.1,52.1
+Florida,2008,True,51.0,48.2
+Florida,2009,True,51.0,48.2
+Florida,2010,True,51.0,48.2
+Florida,2011,True,51.0,48.2
+Florida,2012,True,50.0,49.1
+Florida,2013,True,50.0,49.1
+Florida,2014,True,50.0,49.1
+Florida,2015,True,50.0,49.1
+Florida,2016,False,47.8,49.0
+Florida,2017,False,47.8,49.0
+Florida,2018,False,47.8,49.0
+Florida,2019,False,47.8,49.0
+Florida,2020,False,47.9,51.2
+Florida,2021,False,47.9,51.2
+Florida,2022,False,47.9,51.2
+Georgia,1976,True,66.7,33.0
+Georgia,1977,True,66.7,33.0
+Georgia,1978,True,66.7,33.0
+Georgia,1979,True,66.7,33.0
+Georgia,1980,True,55.8,41.0
+Georgia,1981,True,55.8,41.0
+Georgia,1982,True,55.8,41.0
+Georgia,1983,True,55.8,41.0
+Georgia,1984,False,39.8,60.2
+Georgia,1985,False,39.8,60.2
+Georgia,1986,False,39.8,60.2
+Georgia,1987,False,39.8,60.2
+Georgia,1988,False,39.5,59.8
+Georgia,1989,False,39.5,59.8
+Georgia,1990,False,39.5,59.8
+Georgia,1991,False,39.5,59.8
+Georgia,1992,True,43.5,42.9
+Georgia,1993,True,43.5,42.9
+Georgia,1994,True,43.5,42.9
+Georgia,1995,True,43.5,42.9
+Georgia,1996,False,45.8,47.0
+Georgia,1997,False,45.8,47.0
+Georgia,1998,False,45.8,47.0
+Georgia,1999,False,45.8,47.0
+Georgia,2000,False,43.0,54.7
+Georgia,2001,False,43.0,54.7
+Georgia,2002,False,43.0,54.7
+Georgia,2003,False,43.0,54.7
+Georgia,2004,False,41.4,58.0
+Georgia,2005,False,41.4,58.0
+Georgia,2006,False,41.4,58.0
+Georgia,2007,False,41.4,58.0
+Georgia,2008,False,47.0,52.2
+Georgia,2009,False,47.0,52.2
+Georgia,2010,False,47.0,52.2
+Georgia,2011,False,47.0,52.2
+Georgia,2012,False,45.5,53.3
+Georgia,2013,False,45.5,53.3
+Georgia,2014,False,45.5,53.3
+Georgia,2015,False,45.5,53.3
+Georgia,2016,False,45.6,50.8
+Georgia,2017,False,45.6,50.8
+Georgia,2018,False,45.6,50.8
+Georgia,2019,False,45.6,50.8
+Georgia,2020,True,49.5,49.3
+Georgia,2021,True,49.5,49.3
+Georgia,2022,True,49.5,49.3
+Hawaii,1976,True,50.6,48.1
+Hawaii,1977,True,50.6,48.1
+Hawaii,1978,True,50.6,48.1
+Hawaii,1979,True,50.6,48.1
+Hawaii,1980,True,44.8,42.9
+Hawaii,1981,True,44.8,42.9
+Hawaii,1982,True,44.8,42.9
+Hawaii,1983,True,44.8,42.9
+Hawaii,1984,False,43.8,55.1
+Hawaii,1985,False,43.8,55.1
+Hawaii,1986,False,43.8,55.1
+Hawaii,1987,False,43.8,55.1
+Hawaii,1988,True,54.3,44.8
+Hawaii,1989,True,54.3,44.8
+Hawaii,1990,True,54.3,44.8
+Hawaii,1991,True,54.3,44.8
+Hawaii,1992,True,48.1,36.7
+Hawaii,1993,True,48.1,36.7
+Hawaii,1994,True,48.1,36.7
+Hawaii,1995,True,48.1,36.7
+Hawaii,1996,True,56.9,31.6
+Hawaii,1997,True,56.9,31.6
+Hawaii,1998,True,56.9,31.6
+Hawaii,1999,True,56.9,31.6
+Hawaii,2000,True,55.8,37.5
+Hawaii,2001,True,55.8,37.5
+Hawaii,2002,True,55.8,37.5
+Hawaii,2003,True,55.8,37.5
+Hawaii,2004,True,54.0,45.3
+Hawaii,2005,True,54.0,45.3
+Hawaii,2006,True,54.0,45.3
+Hawaii,2007,True,54.0,45.3
+Hawaii,2008,True,71.9,26.6
+Hawaii,2009,True,71.9,26.6
+Hawaii,2010,True,71.9,26.6
+Hawaii,2011,True,71.9,26.6
+Hawaii,2012,True,70.6,27.8
+Hawaii,2013,True,70.6,27.8
+Hawaii,2014,True,70.6,27.8
+Hawaii,2015,True,70.6,27.8
+Hawaii,2016,True,62.2,30.0
+Hawaii,2017,True,62.2,30.0
+Hawaii,2018,True,62.2,30.0
+Hawaii,2019,True,62.2,30.0
+Hawaii,2020,True,63.7,34.3
+Hawaii,2021,True,63.7,34.3
+Hawaii,2022,True,63.7,34.3
+Idaho,1976,False,37.1,59.9
+Idaho,1977,False,37.1,59.9
+Idaho,1978,False,37.1,59.9
+Idaho,1979,False,37.1,59.9
+Idaho,1980,False,25.2,66.5
+Idaho,1981,False,25.2,66.5
+Idaho,1982,False,25.2,66.5
+Idaho,1983,False,25.2,66.5
+Idaho,1984,False,26.4,72.4
+Idaho,1985,False,26.4,72.4
+Idaho,1986,False,26.4,72.4
+Idaho,1987,False,26.4,72.4
+Idaho,1988,False,36.0,62.1
+Idaho,1989,False,36.0,62.1
+Idaho,1990,False,36.0,62.1
+Idaho,1991,False,36.0,62.1
+Idaho,1992,False,28.4,42.0
+Idaho,1993,False,28.4,42.0
+Idaho,1994,False,28.4,42.0
+Idaho,1995,False,28.4,42.0
+Idaho,1996,False,33.6,52.2
+Idaho,1997,False,33.6,52.2
+Idaho,1998,False,33.6,52.2
+Idaho,1999,False,33.6,52.2
+Idaho,2000,False,27.6,67.2
+Idaho,2001,False,27.6,67.2
+Idaho,2002,False,27.6,67.2
+Idaho,2003,False,27.6,67.2
+Idaho,2004,False,30.3,68.4
+Idaho,2005,False,30.3,68.4
+Idaho,2006,False,30.3,68.4
+Idaho,2007,False,30.3,68.4
+Idaho,2008,False,36.1,61.5
+Idaho,2009,False,36.1,61.5
+Idaho,2010,False,36.1,61.5
+Idaho,2011,False,36.1,61.5
+Idaho,2012,False,32.6,64.5
+Idaho,2013,False,32.6,64.5
+Idaho,2014,False,32.6,64.5
+Idaho,2015,False,32.6,64.5
+Idaho,2016,False,27.5,59.3
+Idaho,2017,False,27.5,59.3
+Idaho,2018,False,27.5,59.3
+Idaho,2019,False,27.5,59.3
+Idaho,2020,False,33.1,63.9
+Idaho,2021,False,33.1,63.9
+Idaho,2022,False,33.1,63.9
+Illinois,1976,False,48.1,50.1
+Illinois,1977,False,48.1,50.1
+Illinois,1978,False,48.1,50.1
+Illinois,1979,False,48.1,50.1
+Illinois,1980,False,41.7,49.7
+Illinois,1981,False,41.7,49.7
+Illinois,1982,False,41.7,49.7
+Illinois,1983,False,41.7,49.7
+Illinois,1984,False,43.3,56.2
+Illinois,1985,False,43.3,56.2
+Illinois,1986,False,43.3,56.2
+Illinois,1987,False,43.3,56.2
+Illinois,1988,False,48.6,50.7
+Illinois,1989,False,48.6,50.7
+Illinois,1990,False,48.6,50.7
+Illinois,1991,False,48.6,50.7
+Illinois,1992,True,48.6,34.3
+Illinois,1993,True,48.6,34.3
+Illinois,1994,True,48.6,34.3
+Illinois,1995,True,48.6,34.3
+Illinois,1996,True,54.3,36.8
+Illinois,1997,True,54.3,36.8
+Illinois,1998,True,54.3,36.8
+Illinois,1999,True,54.3,36.8
+Illinois,2000,True,54.6,42.6
+Illinois,2001,True,54.6,42.6
+Illinois,2002,True,54.6,42.6
+Illinois,2003,True,54.6,42.6
+Illinois,2004,True,54.8,44.5
+Illinois,2005,True,54.8,44.5
+Illinois,2006,True,54.8,44.5
+Illinois,2007,True,54.8,44.5
+Illinois,2008,True,61.9,36.8
+Illinois,2009,True,61.9,36.8
+Illinois,2010,True,61.9,36.8
+Illinois,2011,True,61.9,36.8
+Illinois,2012,True,57.6,40.7
+Illinois,2013,True,57.6,40.7
+Illinois,2014,True,57.6,40.7
+Illinois,2015,True,57.6,40.7
+Illinois,2016,True,55.8,38.8
+Illinois,2017,True,55.8,38.8
+Illinois,2018,True,55.8,38.8
+Illinois,2019,True,55.8,38.8
+Illinois,2020,True,57.5,40.6
+Illinois,2021,True,57.5,40.6
+Illinois,2022,True,57.5,40.6
+Indiana,1976,False,45.7,53.3
+Indiana,1977,False,45.7,53.3
+Indiana,1978,False,45.7,53.3
+Indiana,1979,False,45.7,53.3
+Indiana,1980,False,37.7,56.0
+Indiana,1981,False,37.7,56.0
+Indiana,1982,False,37.7,56.0
+Indiana,1983,False,37.7,56.0
+Indiana,1984,False,37.7,61.7
+Indiana,1985,False,37.7,61.7
+Indiana,1986,False,37.7,61.7
+Indiana,1987,False,37.7,61.7
+Indiana,1988,False,39.7,59.8
+Indiana,1989,False,39.7,59.8
+Indiana,1990,False,39.7,59.8
+Indiana,1991,False,39.7,59.8
+Indiana,1992,False,36.8,42.9
+Indiana,1993,False,36.8,42.9
+Indiana,1994,False,36.8,42.9
+Indiana,1995,False,36.8,42.9
+Indiana,1996,False,41.6,47.1
+Indiana,1997,False,41.6,47.1
+Indiana,1998,False,41.6,47.1
+Indiana,1999,False,41.6,47.1
+Indiana,2000,False,41.0,56.7
+Indiana,2001,False,41.0,56.7
+Indiana,2002,False,41.0,56.7
+Indiana,2003,False,41.0,56.7
+Indiana,2004,False,39.3,59.9
+Indiana,2005,False,39.3,59.9
+Indiana,2006,False,39.3,59.9
+Indiana,2007,False,39.3,59.9
+Indiana,2008,True,50.0,48.9
+Indiana,2009,True,50.0,48.9
+Indiana,2010,True,50.0,48.9
+Indiana,2011,True,50.0,48.9
+Indiana,2012,False,43.9,54.1
+Indiana,2013,False,43.9,54.1
+Indiana,2014,False,43.9,54.1
+Indiana,2015,False,43.9,54.1
+Indiana,2016,False,37.8,56.9
+Indiana,2017,False,37.8,56.9
+Indiana,2018,False,37.8,56.9
+Indiana,2019,False,37.8,56.9
+Indiana,2020,False,41.0,57.0
+Indiana,2021,False,41.0,57.0
+Indiana,2022,False,41.0,57.0
+Iowa,1976,False,48.5,49.5
+Iowa,1977,False,48.5,49.5
+Iowa,1978,False,48.5,49.5
+Iowa,1979,False,48.5,49.5
+Iowa,1980,False,38.6,51.3
+Iowa,1981,False,38.6,51.3
+Iowa,1982,False,38.6,51.3
+Iowa,1983,False,38.6,51.3
+Iowa,1984,False,45.9,53.3
+Iowa,1985,False,45.9,53.3
+Iowa,1986,False,45.9,53.3
+Iowa,1987,False,45.9,53.3
+Iowa,1988,True,54.7,44.5
+Iowa,1989,True,54.7,44.5
+Iowa,1990,True,54.7,44.5
+Iowa,1991,True,54.7,44.5
+Iowa,1992,True,43.3,37.3
+Iowa,1993,True,43.3,37.3
+Iowa,1994,True,43.3,37.3
+Iowa,1995,True,43.3,37.3
+Iowa,1996,True,50.3,39.9
+Iowa,1997,True,50.3,39.9
+Iowa,1998,True,50.3,39.9
+Iowa,1999,True,50.3,39.9
+Iowa,2000,True,48.5,48.2
+Iowa,2001,True,48.5,48.2
+Iowa,2002,True,48.5,48.2
+Iowa,2003,True,48.5,48.2
+Iowa,2004,False,49.2,49.9
+Iowa,2005,False,49.2,49.9
+Iowa,2006,False,49.2,49.9
+Iowa,2007,False,49.2,49.9
+Iowa,2008,True,53.9,44.4
+Iowa,2009,True,53.9,44.4
+Iowa,2010,True,53.9,44.4
+Iowa,2011,True,53.9,44.4
+Iowa,2012,True,52.0,46.2
+Iowa,2013,True,52.0,46.2
+Iowa,2014,True,52.0,46.2
+Iowa,2015,True,52.0,46.2
+Iowa,2016,False,41.7,51.2
+Iowa,2017,False,41.7,51.2
+Iowa,2018,False,41.7,51.2
+Iowa,2019,False,41.7,51.2
+Iowa,2020,False,44.9,53.1
+Iowa,2021,False,44.9,53.1
+Iowa,2022,False,44.9,53.1
+Kansas,1976,False,44.9,52.5
+Kansas,1977,False,44.9,52.5
+Kansas,1978,False,44.9,52.5
+Kansas,1979,False,44.9,52.5
+Kansas,1980,False,33.3,57.9
+Kansas,1981,False,33.3,57.9
+Kansas,1982,False,33.3,57.9
+Kansas,1983,False,33.3,57.9
+Kansas,1984,False,32.6,66.3
+Kansas,1985,False,32.6,66.3
+Kansas,1986,False,32.6,66.3
+Kansas,1987,False,32.6,66.3
+Kansas,1988,False,42.6,55.8
+Kansas,1989,False,42.6,55.8
+Kansas,1990,False,42.6,55.8
+Kansas,1991,False,42.6,55.8
+Kansas,1992,False,33.7,38.9
+Kansas,1993,False,33.7,38.9
+Kansas,1994,False,33.7,38.9
+Kansas,1995,False,33.7,38.9
+Kansas,1996,False,36.1,54.3
+Kansas,1997,False,36.1,54.3
+Kansas,1998,False,36.1,54.3
+Kansas,1999,False,36.1,54.3
+Kansas,2000,False,37.2,58.0
+Kansas,2001,False,37.2,58.0
+Kansas,2002,False,37.2,58.0
+Kansas,2003,False,37.2,58.0
+Kansas,2004,False,36.6,62.0
+Kansas,2005,False,36.6,62.0
+Kansas,2006,False,36.6,62.0
+Kansas,2007,False,36.6,62.0
+Kansas,2008,False,41.7,56.6
+Kansas,2009,False,41.7,56.6
+Kansas,2010,False,41.7,56.6
+Kansas,2011,False,41.7,56.6
+Kansas,2012,False,38.0,59.7
+Kansas,2013,False,38.0,59.7
+Kansas,2014,False,38.0,59.7
+Kansas,2015,False,38.0,59.7
+Kansas,2016,False,36.1,56.7
+Kansas,2017,False,36.1,56.7
+Kansas,2018,False,36.1,56.7
+Kansas,2019,False,36.1,56.7
+Kansas,2020,False,41.6,56.2
+Kansas,2021,False,41.6,56.2
+Kansas,2022,False,41.6,56.2
+Kentucky,1976,True,52.8,45.6
+Kentucky,1977,True,52.8,45.6
+Kentucky,1978,True,52.8,45.6
+Kentucky,1979,True,52.8,45.6
+Kentucky,1980,False,47.6,49.1
+Kentucky,1981,False,47.6,49.1
+Kentucky,1982,False,47.6,49.1
+Kentucky,1983,False,47.6,49.1
+Kentucky,1984,False,39.4,60.0
+Kentucky,1985,False,39.4,60.0
+Kentucky,1986,False,39.4,60.0
+Kentucky,1987,False,39.4,60.0
+Kentucky,1988,False,43.9,55.5
+Kentucky,1989,False,43.9,55.5
+Kentucky,1990,False,43.9,55.5
+Kentucky,1991,False,43.9,55.5
+Kentucky,1992,True,44.6,41.3
+Kentucky,1993,True,44.6,41.3
+Kentucky,1994,True,44.6,41.3
+Kentucky,1995,True,44.6,41.3
+Kentucky,1996,True,45.8,44.9
+Kentucky,1997,True,45.8,44.9
+Kentucky,1998,True,45.8,44.9
+Kentucky,1999,True,45.8,44.9
+Kentucky,2000,False,41.4,56.5
+Kentucky,2001,False,41.4,56.5
+Kentucky,2002,False,41.4,56.5
+Kentucky,2003,False,41.4,56.5
+Kentucky,2004,False,39.7,59.6
+Kentucky,2005,False,39.7,59.6
+Kentucky,2006,False,39.7,59.6
+Kentucky,2007,False,39.7,59.6
+Kentucky,2008,False,41.2,57.4
+Kentucky,2009,False,41.2,57.4
+Kentucky,2010,False,41.2,57.4
+Kentucky,2011,False,41.2,57.4
+Kentucky,2012,False,37.8,60.5
+Kentucky,2013,False,37.8,60.5
+Kentucky,2014,False,37.8,60.5
+Kentucky,2015,False,37.8,60.5
+Kentucky,2016,False,32.7,62.5
+Kentucky,2017,False,32.7,62.5
+Kentucky,2018,False,32.7,62.5
+Kentucky,2019,False,32.7,62.5
+Kentucky,2020,False,36.2,62.1
+Kentucky,2021,False,36.2,62.1
+Kentucky,2022,False,36.2,62.1
+Louisiana,1976,True,51.7,46.0
+Louisiana,1977,True,51.7,46.0
+Louisiana,1978,True,51.7,46.0
+Louisiana,1979,True,51.7,46.0
+Louisiana,1980,False,45.8,51.2
+Louisiana,1981,False,45.8,51.2
+Louisiana,1982,False,45.8,51.2
+Louisiana,1983,False,45.8,51.2
+Louisiana,1984,False,38.2,60.8
+Louisiana,1985,False,38.2,60.8
+Louisiana,1986,False,38.2,60.8
+Louisiana,1987,False,38.2,60.8
+Louisiana,1988,False,44.1,54.3
+Louisiana,1989,False,44.1,54.3
+Louisiana,1990,False,44.1,54.3
+Louisiana,1991,False,44.1,54.3
+Louisiana,1992,True,45.6,41.0
+Louisiana,1993,True,45.6,41.0
+Louisiana,1994,True,45.6,41.0
+Louisiana,1995,True,45.6,41.0
+Louisiana,1996,True,52.0,39.9
+Louisiana,1997,True,52.0,39.9
+Louisiana,1998,True,52.0,39.9
+Louisiana,1999,True,52.0,39.9
+Louisiana,2000,False,44.9,52.6
+Louisiana,2001,False,44.9,52.6
+Louisiana,2002,False,44.9,52.6
+Louisiana,2003,False,44.9,52.6
+Louisiana,2004,False,42.2,56.7
+Louisiana,2005,False,42.2,56.7
+Louisiana,2006,False,42.2,56.7
+Louisiana,2007,False,42.2,56.7
+Louisiana,2008,False,39.9,58.6
+Louisiana,2009,False,39.9,58.6
+Louisiana,2010,False,39.9,58.6
+Louisiana,2011,False,39.9,58.6
+Louisiana,2012,False,40.6,57.8
+Louisiana,2013,False,40.6,57.8
+Louisiana,2014,False,40.6,57.8
+Louisiana,2015,False,40.6,57.8
+Louisiana,2016,False,38.5,58.1
+Louisiana,2017,False,38.5,58.1
+Louisiana,2018,False,38.5,58.1
+Louisiana,2019,False,38.5,58.1
+Louisiana,2020,False,39.9,58.5
+Louisiana,2021,False,39.9,58.5
+Louisiana,2022,False,39.9,58.5
+Maine,1976,False,48.1,48.9
+Maine,1977,False,48.1,48.9
+Maine,1978,False,48.1,48.9
+Maine,1979,False,48.1,48.9
+Maine,1980,False,42.3,45.6
+Maine,1981,False,42.3,45.6
+Maine,1982,False,42.3,45.6
+Maine,1983,False,42.3,45.6
+Maine,1984,False,38.8,60.8
+Maine,1985,False,38.8,60.8
+Maine,1986,False,38.8,60.8
+Maine,1987,False,38.8,60.8
+Maine,1988,False,43.9,55.3
+Maine,1989,False,43.9,55.3
+Maine,1990,False,43.9,55.3
+Maine,1991,False,43.9,55.3
+Maine,1992,True,38.8,30.4
+Maine,1993,True,38.8,30.4
+Maine,1994,True,38.8,30.4
+Maine,1995,True,38.8,30.4
+Maine,1996,True,51.6,30.8
+Maine,1997,True,51.6,30.8
+Maine,1998,True,51.6,30.8
+Maine,1999,True,51.6,30.8
+Maine,2000,True,49.1,44.0
+Maine,2001,True,49.1,44.0
+Maine,2002,True,49.1,44.0
+Maine,2003,True,49.1,44.0
+Maine,2004,True,53.6,44.6
+Maine,2005,True,53.6,44.6
+Maine,2006,True,53.6,44.6
+Maine,2007,True,53.6,44.6
+Maine,2008,True,57.7,40.4
+Maine,2009,True,57.7,40.4
+Maine,2010,True,57.7,40.4
+Maine,2011,True,57.7,40.4
+Maine,2012,True,56.3,41.0
+Maine,2013,True,56.3,41.0
+Maine,2014,True,56.3,41.0
+Maine,2015,True,56.3,41.0
+Maine,2016,True,47.8,44.9
+Maine,2017,True,47.8,44.9
+Maine,2018,True,47.8,44.9
+Maine,2019,True,47.8,44.9
+Maine,2020,True,53.1,44.0
+Maine,2021,True,53.1,44.0
+Maine,2022,True,53.1,44.0
+Maryland,1976,True,53.0,47.0
+Maryland,1977,True,53.0,47.0
+Maryland,1978,True,53.0,47.0
+Maryland,1979,True,53.0,47.0
+Maryland,1980,True,47.1,44.2
+Maryland,1981,True,47.1,44.2
+Maryland,1982,True,47.1,44.2
+Maryland,1983,True,47.1,44.2
+Maryland,1984,False,47.0,52.5
+Maryland,1985,False,47.0,52.5
+Maryland,1986,False,47.0,52.5
+Maryland,1987,False,47.0,52.5
+Maryland,1988,False,48.2,51.1
+Maryland,1989,False,48.2,51.1
+Maryland,1990,False,48.2,51.1
+Maryland,1991,False,48.2,51.1
+Maryland,1992,True,49.8,35.6
+Maryland,1993,True,49.8,35.6
+Maryland,1994,True,49.8,35.6
+Maryland,1995,True,49.8,35.6
+Maryland,1996,True,54.3,38.3
+Maryland,1997,True,54.3,38.3
+Maryland,1998,True,54.3,38.3
+Maryland,1999,True,54.3,38.3
+Maryland,2000,True,56.5,40.3
+Maryland,2001,True,56.5,40.3
+Maryland,2002,True,56.5,40.3
+Maryland,2003,True,56.5,40.3
+Maryland,2004,True,55.9,42.9
+Maryland,2005,True,55.9,42.9
+Maryland,2006,True,55.9,42.9
+Maryland,2007,True,55.9,42.9
+Maryland,2008,True,61.9,36.5
+Maryland,2009,True,61.9,36.5
+Maryland,2010,True,61.9,36.5
+Maryland,2011,True,61.9,36.5
+Maryland,2012,True,62.0,35.9
+Maryland,2013,True,62.0,35.9
+Maryland,2014,True,62.0,35.9
+Maryland,2015,True,62.0,35.9
+Maryland,2016,True,60.3,33.9
+Maryland,2017,True,60.3,33.9
+Maryland,2018,True,60.3,33.9
+Maryland,2019,True,60.3,33.9
+Maryland,2020,True,65.4,32.2
+Maryland,2021,True,65.4,32.2
+Maryland,2022,True,65.4,32.2
+Massachusetts,1976,True,56.1,40.4
+Massachusetts,1977,True,56.1,40.4
+Massachusetts,1978,True,56.1,40.4
+Massachusetts,1979,True,56.1,40.4
+Massachusetts,1980,False,41.8,41.9
+Massachusetts,1981,False,41.8,41.9
+Massachusetts,1982,False,41.8,41.9
+Massachusetts,1983,False,41.8,41.9
+Massachusetts,1984,False,48.4,51.2
+Massachusetts,1985,False,48.4,51.2
+Massachusetts,1986,False,48.4,51.2
+Massachusetts,1987,False,48.4,51.2
+Massachusetts,1988,True,53.2,45.4
+Massachusetts,1989,True,53.2,45.4
+Massachusetts,1990,True,53.2,45.4
+Massachusetts,1991,True,53.2,45.4
+Massachusetts,1992,True,47.5,29.0
+Massachusetts,1993,True,47.5,29.0
+Massachusetts,1994,True,47.5,29.0
+Massachusetts,1995,True,47.5,29.0
+Massachusetts,1996,True,61.5,28.1
+Massachusetts,1997,True,61.5,28.1
+Massachusetts,1998,True,61.5,28.1
+Massachusetts,1999,True,61.5,28.1
+Massachusetts,2000,True,59.8,32.5
+Massachusetts,2001,True,59.8,32.5
+Massachusetts,2002,True,59.8,32.5
+Massachusetts,2003,True,59.8,32.5
+Massachusetts,2004,True,61.9,36.8
+Massachusetts,2005,True,61.9,36.8
+Massachusetts,2006,True,61.9,36.8
+Massachusetts,2007,True,61.9,36.8
+Massachusetts,2008,True,61.8,36.0
+Massachusetts,2009,True,61.8,36.0
+Massachusetts,2010,True,61.8,36.0
+Massachusetts,2011,True,61.8,36.0
+Massachusetts,2012,True,60.7,37.5
+Massachusetts,2013,True,60.7,37.5
+Massachusetts,2014,True,60.7,37.5
+Massachusetts,2015,True,60.7,37.5
+Massachusetts,2016,True,60.0,32.8
+Massachusetts,2017,True,60.0,32.8
+Massachusetts,2018,True,60.0,32.8
+Massachusetts,2019,True,60.0,32.8
+Massachusetts,2020,True,65.6,32.1
+Massachusetts,2021,True,65.6,32.1
+Massachusetts,2022,True,65.6,32.1
+Michigan,1976,False,46.4,51.8
+Michigan,1977,False,46.4,51.8
+Michigan,1978,False,46.4,51.8
+Michigan,1979,False,46.4,51.8
+Michigan,1980,False,42.5,49.0
+Michigan,1981,False,42.5,49.0
+Michigan,1982,False,42.5,49.0
+Michigan,1983,False,42.5,49.0
+Michigan,1984,False,40.2,59.2
+Michigan,1985,False,40.2,59.2
+Michigan,1986,False,40.2,59.2
+Michigan,1987,False,40.2,59.2
+Michigan,1988,False,45.7,53.6
+Michigan,1989,False,45.7,53.6
+Michigan,1990,False,45.7,53.6
+Michigan,1991,False,45.7,53.6
+Michigan,1992,True,43.8,36.4
+Michigan,1993,True,43.8,36.4
+Michigan,1994,True,43.8,36.4
+Michigan,1995,True,43.8,36.4
+Michigan,1996,True,51.7,38.5
+Michigan,1997,True,51.7,38.5
+Michigan,1998,True,51.7,38.5
+Michigan,1999,True,51.7,38.5
+Michigan,2000,True,51.3,46.2
+Michigan,2001,True,51.3,46.2
+Michigan,2002,True,51.3,46.2
+Michigan,2003,True,51.3,46.2
+Michigan,2004,True,51.2,47.8
+Michigan,2005,True,51.2,47.8
+Michigan,2006,True,51.2,47.8
+Michigan,2007,True,51.2,47.8
+Michigan,2008,True,57.4,41.0
+Michigan,2009,True,57.4,41.0
+Michigan,2010,True,57.4,41.0
+Michigan,2011,True,57.4,41.0
+Michigan,2012,True,54.2,44.7
+Michigan,2013,True,54.2,44.7
+Michigan,2014,True,54.2,44.7
+Michigan,2015,True,54.2,44.7
+Michigan,2016,False,47.3,47.5
+Michigan,2017,False,47.3,47.5
+Michigan,2018,False,47.3,47.5
+Michigan,2019,False,47.3,47.5
+Michigan,2020,True,50.6,47.8
+Michigan,2021,True,50.6,47.8
+Michigan,2022,True,50.6,47.8
+Minnesota,1976,True,54.9,42.0
+Minnesota,1977,True,54.9,42.0
+Minnesota,1978,True,54.9,42.0
+Minnesota,1979,True,54.9,42.0
+Minnesota,1980,True,46.5,42.6
+Minnesota,1981,True,46.5,42.6
+Minnesota,1982,True,46.5,42.6
+Minnesota,1983,True,46.5,42.6
+Minnesota,1984,True,49.7,49.5
+Minnesota,1985,True,49.7,49.5
+Minnesota,1986,True,49.7,49.5
+Minnesota,1987,True,49.7,49.5
+Minnesota,1988,True,52.9,45.9
+Minnesota,1989,True,52.9,45.9
+Minnesota,1990,True,52.9,45.9
+Minnesota,1991,True,52.9,45.9
+Minnesota,1992,True,43.5,31.9
+Minnesota,1993,True,43.5,31.9
+Minnesota,1994,True,43.5,31.9
+Minnesota,1995,True,43.5,31.9
+Minnesota,1996,True,51.1,35.0
+Minnesota,1997,True,51.1,35.0
+Minnesota,1998,True,51.1,35.0
+Minnesota,1999,True,51.1,35.0
+Minnesota,2000,True,47.9,45.5
+Minnesota,2001,True,47.9,45.5
+Minnesota,2002,True,47.9,45.5
+Minnesota,2003,True,47.9,45.5
+Minnesota,2004,True,51.1,47.6
+Minnesota,2005,True,51.1,47.6
+Minnesota,2006,True,51.1,47.6
+Minnesota,2007,True,51.1,47.6
+Minnesota,2008,True,54.1,43.8
+Minnesota,2009,True,54.1,43.8
+Minnesota,2010,True,54.1,43.8
+Minnesota,2011,True,54.1,43.8
+Minnesota,2012,True,52.7,45.0
+Minnesota,2013,True,52.7,45.0
+Minnesota,2014,True,52.7,45.0
+Minnesota,2015,True,52.7,45.0
+Minnesota,2016,True,46.4,44.9
+Minnesota,2017,True,46.4,44.9
+Minnesota,2018,True,46.4,44.9
+Minnesota,2019,True,46.4,44.9
+Minnesota,2020,True,52.4,45.3
+Minnesota,2021,True,52.4,45.3
+Minnesota,2022,True,52.4,45.3
+Mississippi,1976,True,49.6,47.7
+Mississippi,1977,True,49.6,47.7
+Mississippi,1978,True,49.6,47.7
+Mississippi,1979,True,49.6,47.7
+Mississippi,1980,False,48.1,49.4
+Mississippi,1981,False,48.1,49.4
+Mississippi,1982,False,48.1,49.4
+Mississippi,1983,False,48.1,49.4
+Mississippi,1984,False,37.4,61.9
+Mississippi,1985,False,37.4,61.9
+Mississippi,1986,False,37.4,61.9
+Mississippi,1987,False,37.4,61.9
+Mississippi,1988,False,39.1,59.9
+Mississippi,1989,False,39.1,59.9
+Mississippi,1990,False,39.1,59.9
+Mississippi,1991,False,39.1,59.9
+Mississippi,1992,False,40.8,49.7
+Mississippi,1993,False,40.8,49.7
+Mississippi,1994,False,40.8,49.7
+Mississippi,1995,False,40.8,49.7
+Mississippi,1996,False,44.1,49.2
+Mississippi,1997,False,44.1,49.2
+Mississippi,1998,False,44.1,49.2
+Mississippi,1999,False,44.1,49.2
+Mississippi,2000,False,40.7,57.6
+Mississippi,2001,False,40.7,57.6
+Mississippi,2002,False,40.7,57.6
+Mississippi,2003,False,40.7,57.6
+Mississippi,2004,False,39.8,59.5
+Mississippi,2005,False,39.8,59.5
+Mississippi,2006,False,39.8,59.5
+Mississippi,2007,False,39.8,59.5
+Mississippi,2008,False,43.0,56.2
+Mississippi,2009,False,43.0,56.2
+Mississippi,2010,False,43.0,56.2
+Mississippi,2011,False,43.0,56.2
+Mississippi,2012,False,43.8,55.3
+Mississippi,2013,False,43.8,55.3
+Mississippi,2014,False,43.8,55.3
+Mississippi,2015,False,43.8,55.3
+Mississippi,2016,False,40.1,57.9
+Mississippi,2017,False,40.1,57.9
+Mississippi,2018,False,40.1,57.9
+Mississippi,2019,False,40.1,57.9
+Mississippi,2020,False,41.1,57.6
+Mississippi,2021,False,41.1,57.6
+Mississippi,2022,False,41.1,57.6
+Missouri,1976,True,51.1,47.5
+Missouri,1977,True,51.1,47.5
+Missouri,1978,True,51.1,47.5
+Missouri,1979,True,51.1,47.5
+Missouri,1980,False,44.4,51.2
+Missouri,1981,False,44.4,51.2
+Missouri,1982,False,44.4,51.2
+Missouri,1983,False,44.4,51.2
+Missouri,1984,False,40.0,60.0
+Missouri,1985,False,40.0,60.0
+Missouri,1986,False,40.0,60.0
+Missouri,1987,False,40.0,60.0
+Missouri,1988,False,47.8,51.8
+Missouri,1989,False,47.8,51.8
+Missouri,1990,False,47.8,51.8
+Missouri,1991,False,47.8,51.8
+Missouri,1992,True,44.1,33.9
+Missouri,1993,True,44.1,33.9
+Missouri,1994,True,44.1,33.9
+Missouri,1995,True,44.1,33.9
+Missouri,1996,True,47.5,41.2
+Missouri,1997,True,47.5,41.2
+Missouri,1998,True,47.5,41.2
+Missouri,1999,True,47.5,41.2
+Missouri,2000,False,47.1,50.4
+Missouri,2001,False,47.1,50.4
+Missouri,2002,False,47.1,50.4
+Missouri,2003,False,47.1,50.4
+Missouri,2004,False,46.1,53.3
+Missouri,2005,False,46.1,53.3
+Missouri,2006,False,46.1,53.3
+Missouri,2007,False,46.1,53.3
+Missouri,2008,False,49.3,49.4
+Missouri,2009,False,49.3,49.4
+Missouri,2010,False,49.3,49.4
+Missouri,2011,False,49.3,49.4
+Missouri,2012,False,44.4,53.8
+Missouri,2013,False,44.4,53.8
+Missouri,2014,False,44.4,53.8
+Missouri,2015,False,44.4,53.8
+Missouri,2016,False,38.1,56.8
+Missouri,2017,False,38.1,56.8
+Missouri,2018,False,38.1,56.8
+Missouri,2019,False,38.1,56.8
+Missouri,2020,False,41.4,56.8
+Missouri,2021,False,41.4,56.8
+Missouri,2022,False,41.4,56.8
+Montana,1976,False,45.4,52.8
+Montana,1977,False,45.4,52.8
+Montana,1978,False,45.4,52.8
+Montana,1979,False,45.4,52.8
+Montana,1980,False,32.4,56.8
+Montana,1981,False,32.4,56.8
+Montana,1982,False,32.4,56.8
+Montana,1983,False,32.4,56.8
+Montana,1984,False,38.2,60.5
+Montana,1985,False,38.2,60.5
+Montana,1986,False,38.2,60.5
+Montana,1987,False,38.2,60.5
+Montana,1988,False,46.2,52.1
+Montana,1989,False,46.2,52.1
+Montana,1990,False,46.2,52.1
+Montana,1991,False,46.2,52.1
+Montana,1992,True,37.6,35.1
+Montana,1993,True,37.6,35.1
+Montana,1994,True,37.6,35.1
+Montana,1995,True,37.6,35.1
+Montana,1996,False,41.2,44.1
+Montana,1997,False,41.2,44.1
+Montana,1998,False,41.2,44.1
+Montana,1999,False,41.2,44.1
+Montana,2000,False,33.4,58.4
+Montana,2001,False,33.4,58.4
+Montana,2002,False,33.4,58.4
+Montana,2003,False,33.4,58.4
+Montana,2004,False,38.6,59.1
+Montana,2005,False,38.6,59.1
+Montana,2006,False,38.6,59.1
+Montana,2007,False,38.6,59.1
+Montana,2008,False,47.3,49.5
+Montana,2009,False,47.3,49.5
+Montana,2010,False,47.3,49.5
+Montana,2011,False,47.3,49.5
+Montana,2012,False,41.7,55.4
+Montana,2013,False,41.7,55.4
+Montana,2014,False,41.7,55.4
+Montana,2015,False,41.7,55.4
+Montana,2016,False,35.8,56.2
+Montana,2017,False,35.8,56.2
+Montana,2018,False,35.8,56.2
+Montana,2019,False,35.8,56.2
+Montana,2020,False,40.6,56.9
+Montana,2021,False,40.6,56.9
+Montana,2022,False,40.6,56.9
+Nebraska,1976,False,38.5,59.2
+Nebraska,1977,False,38.5,59.2
+Nebraska,1978,False,38.5,59.2
+Nebraska,1979,False,38.5,59.2
+Nebraska,1980,False,26.0,65.5
+Nebraska,1981,False,26.0,65.5
+Nebraska,1982,False,26.0,65.5
+Nebraska,1983,False,26.0,65.5
+Nebraska,1984,False,28.8,70.6
+Nebraska,1985,False,28.8,70.6
+Nebraska,1986,False,28.8,70.6
+Nebraska,1987,False,28.8,70.6
+Nebraska,1988,False,39.2,60.2
+Nebraska,1989,False,39.2,60.2
+Nebraska,1990,False,39.2,60.2
+Nebraska,1991,False,39.2,60.2
+Nebraska,1992,False,29.4,46.6
+Nebraska,1993,False,29.4,46.6
+Nebraska,1994,False,29.4,46.6
+Nebraska,1995,False,29.4,46.6
+Nebraska,1996,False,35.0,53.7
+Nebraska,1997,False,35.0,53.7
+Nebraska,1998,False,35.0,53.7
+Nebraska,1999,False,35.0,53.7
+Nebraska,2000,False,33.3,62.4
+Nebraska,2001,False,33.3,62.4
+Nebraska,2002,False,33.3,62.4
+Nebraska,2003,False,33.3,62.4
+Nebraska,2004,False,32.7,65.9
+Nebraska,2005,False,32.7,65.9
+Nebraska,2006,False,32.7,65.9
+Nebraska,2007,False,32.7,65.9
+Nebraska,2008,False,41.6,56.5
+Nebraska,2009,False,41.6,56.5
+Nebraska,2010,False,41.6,56.5
+Nebraska,2011,False,41.6,56.5
+Nebraska,2012,False,38.0,59.8
+Nebraska,2013,False,38.0,59.8
+Nebraska,2014,False,38.0,59.8
+Nebraska,2015,False,38.0,59.8
+Nebraska,2016,False,33.7,58.8
+Nebraska,2017,False,33.7,58.8
+Nebraska,2018,False,33.7,58.8
+Nebraska,2019,False,33.7,58.8
+Nebraska,2020,False,39.2,58.2
+Nebraska,2021,False,39.2,58.2
+Nebraska,2022,False,39.2,58.2
+Nevada,1976,False,45.8,50.2
+Nevada,1977,False,45.8,50.2
+Nevada,1978,False,45.8,50.2
+Nevada,1979,False,45.8,50.2
+Nevada,1980,False,26.9,62.5
+Nevada,1981,False,26.9,62.5
+Nevada,1982,False,26.9,62.5
+Nevada,1983,False,26.9,62.5
+Nevada,1984,False,32.0,65.9
+Nevada,1985,False,32.0,65.9
+Nevada,1986,False,32.0,65.9
+Nevada,1987,False,32.0,65.9
+Nevada,1988,False,37.9,58.9
+Nevada,1989,False,37.9,58.9
+Nevada,1990,False,37.9,58.9
+Nevada,1991,False,37.9,58.9
+Nevada,1992,True,37.4,34.7
+Nevada,1993,True,37.4,34.7
+Nevada,1994,True,37.4,34.7
+Nevada,1995,True,37.4,34.7
+Nevada,1996,True,43.9,42.9
+Nevada,1997,True,43.9,42.9
+Nevada,1998,True,43.9,42.9
+Nevada,1999,True,43.9,42.9
+Nevada,2000,False,46.0,49.5
+Nevada,2001,False,46.0,49.5
+Nevada,2002,False,46.0,49.5
+Nevada,2003,False,46.0,49.5
+Nevada,2004,False,47.9,50.5
+Nevada,2005,False,47.9,50.5
+Nevada,2006,False,47.9,50.5
+Nevada,2007,False,47.9,50.5
+Nevada,2008,True,55.2,42.7
+Nevada,2009,True,55.2,42.7
+Nevada,2010,True,55.2,42.7
+Nevada,2011,True,55.2,42.7
+Nevada,2012,True,52.4,45.7
+Nevada,2013,True,52.4,45.7
+Nevada,2014,True,52.4,45.7
+Nevada,2015,True,52.4,45.7
+Nevada,2016,True,47.9,45.5
+Nevada,2017,True,47.9,45.5
+Nevada,2018,True,47.9,45.5
+Nevada,2019,True,47.9,45.5
+Nevada,2020,True,50.1,47.7
+Nevada,2021,True,50.1,47.7
+Nevada,2022,True,50.1,47.7
+New Hampshire,1976,False,43.5,54.8
+New Hampshire,1977,False,43.5,54.8
+New Hampshire,1978,False,43.5,54.8
+New Hampshire,1979,False,43.5,54.8
+New Hampshire,1980,False,28.4,57.7
+New Hampshire,1981,False,28.4,57.7
+New Hampshire,1982,False,28.4,57.7
+New Hampshire,1983,False,28.4,57.7
+New Hampshire,1984,False,30.9,68.6
+New Hampshire,1985,False,30.9,68.6
+New Hampshire,1986,False,30.9,68.6
+New Hampshire,1987,False,30.9,68.6
+New Hampshire,1988,False,36.3,62.4
+New Hampshire,1989,False,36.3,62.4
+New Hampshire,1990,False,36.3,62.4
+New Hampshire,1991,False,36.3,62.4
+New Hampshire,1992,True,38.9,37.6
+New Hampshire,1993,True,38.9,37.6
+New Hampshire,1994,True,38.9,37.6
+New Hampshire,1995,True,38.9,37.6
+New Hampshire,1996,True,49.3,39.4
+New Hampshire,1997,True,49.3,39.4
+New Hampshire,1998,True,49.3,39.4
+New Hampshire,1999,True,49.3,39.4
+New Hampshire,2000,False,46.8,48.1
+New Hampshire,2001,False,46.8,48.1
+New Hampshire,2002,False,46.8,48.1
+New Hampshire,2003,False,46.8,48.1
+New Hampshire,2004,True,50.2,48.9
+New Hampshire,2005,True,50.2,48.9
+New Hampshire,2006,True,50.2,48.9
+New Hampshire,2007,True,50.2,48.9
+New Hampshire,2008,True,54.1,44.5
+New Hampshire,2009,True,54.1,44.5
+New Hampshire,2010,True,54.1,44.5
+New Hampshire,2011,True,54.1,44.5
+New Hampshire,2012,True,52.0,46.4
+New Hampshire,2013,True,52.0,46.4
+New Hampshire,2014,True,52.0,46.4
+New Hampshire,2015,True,52.0,46.4
+New Hampshire,2016,True,46.8,46.5
+New Hampshire,2017,True,46.8,46.5
+New Hampshire,2018,True,46.8,46.5
+New Hampshire,2019,True,46.8,46.5
+New Hampshire,2020,True,52.7,45.4
+New Hampshire,2021,True,52.7,45.4
+New Hampshire,2022,True,52.7,45.4
+New Jersey,1976,False,47.9,50.1
+New Jersey,1977,False,47.9,50.1
+New Jersey,1978,False,47.9,50.1
+New Jersey,1979,False,47.9,50.1
+New Jersey,1980,False,38.6,52.0
+New Jersey,1981,False,38.6,52.0
+New Jersey,1982,False,38.6,52.0
+New Jersey,1983,False,38.6,52.0
+New Jersey,1984,False,39.2,60.1
+New Jersey,1985,False,39.2,60.1
+New Jersey,1986,False,39.2,60.1
+New Jersey,1987,False,39.2,60.1
+New Jersey,1988,False,42.6,56.2
+New Jersey,1989,False,42.6,56.2
+New Jersey,1990,False,42.6,56.2
+New Jersey,1991,False,42.6,56.2
+New Jersey,1992,True,43.0,40.6
+New Jersey,1993,True,43.0,40.6
+New Jersey,1994,True,43.0,40.6
+New Jersey,1995,True,43.0,40.6
+New Jersey,1996,True,53.7,35.9
+New Jersey,1997,True,53.7,35.9
+New Jersey,1998,True,53.7,35.9
+New Jersey,1999,True,53.7,35.9
+New Jersey,2000,True,56.1,40.3
+New Jersey,2001,True,56.1,40.3
+New Jersey,2002,True,56.1,40.3
+New Jersey,2003,True,56.1,40.3
+New Jersey,2004,True,52.9,46.2
+New Jersey,2005,True,52.9,46.2
+New Jersey,2006,True,52.9,46.2
+New Jersey,2007,True,52.9,46.2
+New Jersey,2008,True,57.3,41.7
+New Jersey,2009,True,57.3,41.7
+New Jersey,2010,True,57.3,41.7
+New Jersey,2011,True,57.3,41.7
+New Jersey,2012,True,58.4,40.6
+New Jersey,2013,True,58.4,40.6
+New Jersey,2014,True,58.4,40.6
+New Jersey,2015,True,58.4,40.6
+New Jersey,2016,True,55.5,41.4
+New Jersey,2017,True,55.5,41.4
+New Jersey,2018,True,55.5,41.4
+New Jersey,2019,True,55.5,41.4
+New Jersey,2020,True,57.3,41.4
+New Jersey,2021,True,57.3,41.4
+New Jersey,2022,True,57.3,41.4
+New Mexico,1976,False,48.3,50.8
+New Mexico,1977,False,48.3,50.8
+New Mexico,1978,False,48.3,50.8
+New Mexico,1979,False,48.3,50.8
+New Mexico,1980,False,36.8,55.0
+New Mexico,1981,False,36.8,55.0
+New Mexico,1982,False,36.8,55.0
+New Mexico,1983,False,36.8,55.0
+New Mexico,1984,False,39.2,59.7
+New Mexico,1985,False,39.2,59.7
+New Mexico,1986,False,39.2,59.7
+New Mexico,1987,False,39.2,59.7
+New Mexico,1988,False,46.9,51.9
+New Mexico,1989,False,46.9,51.9
+New Mexico,1990,False,46.9,51.9
+New Mexico,1991,False,46.9,51.9
+New Mexico,1992,True,45.9,37.3
+New Mexico,1993,True,45.9,37.3
+New Mexico,1994,True,45.9,37.3
+New Mexico,1995,True,45.9,37.3
+New Mexico,1996,True,49.2,41.9
+New Mexico,1997,True,49.2,41.9
+New Mexico,1998,True,49.2,41.9
+New Mexico,1999,True,49.2,41.9
+New Mexico,2000,False,47.9,47.9
+New Mexico,2001,False,47.9,47.9
+New Mexico,2002,False,47.9,47.9
+New Mexico,2003,False,47.9,47.9
+New Mexico,2004,False,49.1,49.8
+New Mexico,2005,False,49.1,49.8
+New Mexico,2006,False,49.1,49.8
+New Mexico,2007,False,49.1,49.8
+New Mexico,2008,True,56.9,41.8
+New Mexico,2009,True,56.9,41.8
+New Mexico,2010,True,56.9,41.8
+New Mexico,2011,True,56.9,41.8
+New Mexico,2012,True,53.0,42.8
+New Mexico,2013,True,53.0,42.8
+New Mexico,2014,True,53.0,42.8
+New Mexico,2015,True,53.0,42.8
+New Mexico,2016,True,48.3,40.0
+New Mexico,2017,True,48.3,40.0
+New Mexico,2018,True,48.3,40.0
+New Mexico,2019,True,48.3,40.0
+New Mexico,2020,True,54.3,43.5
+New Mexico,2021,True,54.3,43.5
+New Mexico,2022,True,54.3,43.5
+New York,1976,True,52.0,47.5
+New York,1977,True,52.0,47.5
+New York,1978,True,52.0,47.5
+New York,1979,True,52.0,47.5
+New York,1980,False,44.0,46.7
+New York,1981,False,44.0,46.7
+New York,1982,False,44.0,46.7
+New York,1983,False,44.0,46.7
+New York,1984,False,45.8,53.8
+New York,1985,False,45.8,53.8
+New York,1986,False,45.8,53.8
+New York,1987,False,45.8,53.8
+New York,1988,True,51.6,47.5
+New York,1989,True,51.6,47.5
+New York,1990,True,51.6,47.5
+New York,1991,True,51.6,47.5
+New York,1992,True,49.7,33.9
+New York,1993,True,49.7,33.9
+New York,1994,True,49.7,33.9
+New York,1995,True,49.7,33.9
+New York,1996,True,59.5,30.6
+New York,1997,True,59.5,30.6
+New York,1998,True,59.5,30.6
+New York,1999,True,59.5,30.6
+New York,2000,True,60.2,35.2
+New York,2001,True,60.2,35.2
+New York,2002,True,60.2,35.2
+New York,2003,True,60.2,35.2
+New York,2004,True,58.4,40.1
+New York,2005,True,58.4,40.1
+New York,2006,True,58.4,40.1
+New York,2007,True,58.4,40.1
+New York,2008,True,62.9,36.0
+New York,2009,True,62.9,36.0
+New York,2010,True,62.9,36.0
+New York,2011,True,62.9,36.0
+New York,2012,True,63.4,35.2
+New York,2013,True,63.4,35.2
+New York,2014,True,63.4,35.2
+New York,2015,True,63.4,35.2
+New York,2016,True,59.0,36.5
+New York,2017,True,59.0,36.5
+New York,2018,True,59.0,36.5
+New York,2019,True,59.0,36.5
+New York,2020,True,60.9,37.8
+New York,2021,True,60.9,37.8
+New York,2022,True,60.9,37.8
+North Carolina,1976,True,55.3,44.2
+North Carolina,1977,True,55.3,44.2
+North Carolina,1978,True,55.3,44.2
+North Carolina,1979,True,55.3,44.2
+North Carolina,1980,False,47.2,49.3
+North Carolina,1981,False,47.2,49.3
+North Carolina,1982,False,47.2,49.3
+North Carolina,1983,False,47.2,49.3
+North Carolina,1984,False,37.9,61.9
+North Carolina,1985,False,37.9,61.9
+North Carolina,1986,False,37.9,61.9
+North Carolina,1987,False,37.9,61.9
+North Carolina,1988,False,41.7,58.0
+North Carolina,1989,False,41.7,58.0
+North Carolina,1990,False,41.7,58.0
+North Carolina,1991,False,41.7,58.0
+North Carolina,1992,False,42.7,43.4
+North Carolina,1993,False,42.7,43.4
+North Carolina,1994,False,42.7,43.4
+North Carolina,1995,False,42.7,43.4
+North Carolina,1996,False,44.0,48.7
+North Carolina,1997,False,44.0,48.7
+North Carolina,1998,False,44.0,48.7
+North Carolina,1999,False,44.0,48.7
+North Carolina,2000,False,43.2,56.0
+North Carolina,2001,False,43.2,56.0
+North Carolina,2002,False,43.2,56.0
+North Carolina,2003,False,43.2,56.0
+North Carolina,2004,False,43.6,56.0
+North Carolina,2005,False,43.6,56.0
+North Carolina,2006,False,43.6,56.0
+North Carolina,2007,False,43.6,56.0
+North Carolina,2008,True,49.7,49.4
+North Carolina,2009,True,49.7,49.4
+North Carolina,2010,True,49.7,49.4
+North Carolina,2011,True,49.7,49.4
+North Carolina,2012,False,48.4,50.4
+North Carolina,2013,False,48.4,50.4
+North Carolina,2014,False,48.4,50.4
+North Carolina,2015,False,48.4,50.4
+North Carolina,2016,False,46.2,49.8
+North Carolina,2017,False,46.2,49.8
+North Carolina,2018,False,46.2,49.8
+North Carolina,2019,False,46.2,49.8
+North Carolina,2020,False,48.6,49.9
+North Carolina,2021,False,48.6,49.9
+North Carolina,2022,False,48.6,49.9
+North Dakota,1976,False,45.8,51.7
+North Dakota,1977,False,45.8,51.7
+North Dakota,1978,False,45.8,51.7
+North Dakota,1979,False,45.8,51.7
+North Dakota,1980,False,26.3,64.2
+North Dakota,1981,False,26.3,64.2
+North Dakota,1982,False,26.3,64.2
+North Dakota,1983,False,26.3,64.2
+North Dakota,1984,False,33.8,64.8
+North Dakota,1985,False,33.8,64.8
+North Dakota,1986,False,33.8,64.8
+North Dakota,1987,False,33.8,64.8
+North Dakota,1988,False,43.0,56.0
+North Dakota,1989,False,43.0,56.0
+North Dakota,1990,False,43.0,56.0
+North Dakota,1991,False,43.0,56.0
+North Dakota,1992,False,32.2,44.2
+North Dakota,1993,False,32.2,44.2
+North Dakota,1994,False,32.2,44.2
+North Dakota,1995,False,32.2,44.2
+North Dakota,1996,False,40.1,46.9
+North Dakota,1997,False,40.1,46.9
+North Dakota,1998,False,40.1,46.9
+North Dakota,1999,False,40.1,46.9
+North Dakota,2000,False,33.1,60.7
+North Dakota,2001,False,33.1,60.7
+North Dakota,2002,False,33.1,60.7
+North Dakota,2003,False,33.1,60.7
+North Dakota,2004,False,35.5,62.9
+North Dakota,2005,False,35.5,62.9
+North Dakota,2006,False,35.5,62.9
+North Dakota,2007,False,35.5,62.9
+North Dakota,2008,False,44.6,53.3
+North Dakota,2009,False,44.6,53.3
+North Dakota,2010,False,44.6,53.3
+North Dakota,2011,False,44.6,53.3
+North Dakota,2012,False,38.7,58.3
+North Dakota,2013,False,38.7,58.3
+North Dakota,2014,False,38.7,58.3
+North Dakota,2015,False,38.7,58.3
+North Dakota,2016,False,27.2,63.0
+North Dakota,2017,False,27.2,63.0
+North Dakota,2018,False,27.2,63.0
+North Dakota,2019,False,27.2,63.0
+North Dakota,2020,False,31.8,65.1
+North Dakota,2021,False,31.8,65.1
+North Dakota,2022,False,31.8,65.1
+Ohio,1976,True,48.9,48.7
+Ohio,1977,True,48.9,48.7
+Ohio,1978,True,48.9,48.7
+Ohio,1979,True,48.9,48.7
+Ohio,1980,False,40.9,51.5
+Ohio,1981,False,40.9,51.5
+Ohio,1982,False,40.9,51.5
+Ohio,1983,False,40.9,51.5
+Ohio,1984,False,40.1,58.9
+Ohio,1985,False,40.1,58.9
+Ohio,1986,False,40.1,58.9
+Ohio,1987,False,40.1,58.9
+Ohio,1988,False,44.2,55.0
+Ohio,1989,False,44.2,55.0
+Ohio,1990,False,44.2,55.0
+Ohio,1991,False,44.2,55.0
+Ohio,1992,True,40.2,38.4
+Ohio,1993,True,40.2,38.4
+Ohio,1994,True,40.2,38.4
+Ohio,1995,True,40.2,38.4
+Ohio,1996,True,47.4,41.0
+Ohio,1997,True,47.4,41.0
+Ohio,1998,True,47.4,41.0
+Ohio,1999,True,47.4,41.0
+Ohio,2000,False,46.4,50.0
+Ohio,2001,False,46.4,50.0
+Ohio,2002,False,46.4,50.0
+Ohio,2003,False,46.4,50.0
+Ohio,2004,False,48.7,50.8
+Ohio,2005,False,48.7,50.8
+Ohio,2006,False,48.7,50.8
+Ohio,2007,False,48.7,50.8
+Ohio,2008,True,51.5,46.9
+Ohio,2009,True,51.5,46.9
+Ohio,2010,True,51.5,46.9
+Ohio,2011,True,51.5,46.9
+Ohio,2012,True,50.7,47.7
+Ohio,2013,True,50.7,47.7
+Ohio,2014,True,50.7,47.7
+Ohio,2015,True,50.7,47.7
+Ohio,2016,False,43.6,51.7
+Ohio,2017,False,43.6,51.7
+Ohio,2018,False,43.6,51.7
+Ohio,2019,False,43.6,51.7
+Ohio,2020,False,45.2,53.3
+Ohio,2021,False,45.2,53.3
+Ohio,2022,False,45.2,53.3
+Oklahoma,1976,False,48.8,50.0
+Oklahoma,1977,False,48.8,50.0
+Oklahoma,1978,False,48.8,50.0
+Oklahoma,1979,False,48.8,50.0
+Oklahoma,1980,False,35.0,60.5
+Oklahoma,1981,False,35.0,60.5
+Oklahoma,1982,False,35.0,60.5
+Oklahoma,1983,False,35.0,60.5
+Oklahoma,1984,False,30.7,68.6
+Oklahoma,1985,False,30.7,68.6
+Oklahoma,1986,False,30.7,68.6
+Oklahoma,1987,False,30.7,68.6
+Oklahoma,1988,False,41.3,57.9
+Oklahoma,1989,False,41.3,57.9
+Oklahoma,1990,False,41.3,57.9
+Oklahoma,1991,False,41.3,57.9
+Oklahoma,1992,False,34.0,42.6
+Oklahoma,1993,False,34.0,42.6
+Oklahoma,1994,False,34.0,42.6
+Oklahoma,1995,False,34.0,42.6
+Oklahoma,1996,False,40.5,48.3
+Oklahoma,1997,False,40.5,48.3
+Oklahoma,1998,False,40.5,48.3
+Oklahoma,1999,False,40.5,48.3
+Oklahoma,2000,False,38.4,60.3
+Oklahoma,2001,False,38.4,60.3
+Oklahoma,2002,False,38.4,60.3
+Oklahoma,2003,False,38.4,60.3
+Oklahoma,2004,False,34.4,65.6
+Oklahoma,2005,False,34.4,65.6
+Oklahoma,2006,False,34.4,65.6
+Oklahoma,2007,False,34.4,65.6
+Oklahoma,2008,False,34.4,65.7
+Oklahoma,2009,False,34.4,65.7
+Oklahoma,2010,False,34.4,65.7
+Oklahoma,2011,False,34.4,65.7
+Oklahoma,2012,False,33.2,66.8
+Oklahoma,2013,False,33.2,66.8
+Oklahoma,2014,False,33.2,66.8
+Oklahoma,2015,False,33.2,66.8
+Oklahoma,2016,False,28.9,65.3
+Oklahoma,2017,False,28.9,65.3
+Oklahoma,2018,False,28.9,65.3
+Oklahoma,2019,False,28.9,65.3
+Oklahoma,2020,False,32.3,65.4
+Oklahoma,2021,False,32.3,65.4
+Oklahoma,2022,False,32.3,65.4
+Oregon,1976,False,47.6,47.8
+Oregon,1977,False,47.6,47.8
+Oregon,1978,False,47.6,47.8
+Oregon,1979,False,47.6,47.8
+Oregon,1980,False,38.7,48.3
+Oregon,1981,False,38.7,48.3
+Oregon,1982,False,38.7,48.3
+Oregon,1983,False,38.7,48.3
+Oregon,1984,False,43.7,55.9
+Oregon,1985,False,43.7,55.9
+Oregon,1986,False,43.7,55.9
+Oregon,1987,False,43.7,55.9
+Oregon,1988,True,51.3,46.6
+Oregon,1989,True,51.3,46.6
+Oregon,1990,True,51.3,46.6
+Oregon,1991,True,51.3,46.6
+Oregon,1992,True,42.5,32.5
+Oregon,1993,True,42.5,32.5
+Oregon,1994,True,42.5,32.5
+Oregon,1995,True,42.5,32.5
+Oregon,1996,True,47.2,39.1
+Oregon,1997,True,47.2,39.1
+Oregon,1998,True,47.2,39.1
+Oregon,1999,True,47.2,39.1
+Oregon,2000,True,47.0,46.5
+Oregon,2001,True,47.0,46.5
+Oregon,2002,True,47.0,46.5
+Oregon,2003,True,47.0,46.5
+Oregon,2004,True,51.4,47.2
+Oregon,2005,True,51.4,47.2
+Oregon,2006,True,51.4,47.2
+Oregon,2007,True,51.4,47.2
+Oregon,2008,True,56.8,40.4
+Oregon,2009,True,56.8,40.4
+Oregon,2010,True,56.8,40.4
+Oregon,2011,True,56.8,40.4
+Oregon,2012,True,54.2,42.2
+Oregon,2013,True,54.2,42.2
+Oregon,2014,True,54.2,42.2
+Oregon,2015,True,54.2,42.2
+Oregon,2016,True,50.1,39.1
+Oregon,2017,True,50.1,39.1
+Oregon,2018,True,50.1,39.1
+Oregon,2019,True,50.1,39.1
+Oregon,2020,True,56.5,40.4
+Oregon,2021,True,56.5,40.4
+Oregon,2022,True,56.5,40.4
+Pennsylvania,1976,True,50.4,47.7
+Pennsylvania,1977,True,50.4,47.7
+Pennsylvania,1978,True,50.4,47.7
+Pennsylvania,1979,True,50.4,47.7
+Pennsylvania,1980,False,42.5,49.6
+Pennsylvania,1981,False,42.5,49.6
+Pennsylvania,1982,False,42.5,49.6
+Pennsylvania,1983,False,42.5,49.6
+Pennsylvania,1984,False,46.0,53.3
+Pennsylvania,1985,False,46.0,53.3
+Pennsylvania,1986,False,46.0,53.3
+Pennsylvania,1987,False,46.0,53.3
+Pennsylvania,1988,False,48.4,50.7
+Pennsylvania,1989,False,48.4,50.7
+Pennsylvania,1990,False,48.4,50.7
+Pennsylvania,1991,False,48.4,50.7
+Pennsylvania,1992,True,45.2,36.1
+Pennsylvania,1993,True,45.2,36.1
+Pennsylvania,1994,True,45.2,36.1
+Pennsylvania,1995,True,45.2,36.1
+Pennsylvania,1996,True,49.2,40.0
+Pennsylvania,1997,True,49.2,40.0
+Pennsylvania,1998,True,49.2,40.0
+Pennsylvania,1999,True,49.2,40.0
+Pennsylvania,2000,True,50.6,46.4
+Pennsylvania,2001,True,50.6,46.4
+Pennsylvania,2002,True,50.6,46.4
+Pennsylvania,2003,True,50.6,46.4
+Pennsylvania,2004,True,50.9,48.4
+Pennsylvania,2005,True,50.9,48.4
+Pennsylvania,2006,True,50.9,48.4
+Pennsylvania,2007,True,50.9,48.4
+Pennsylvania,2008,True,54.5,44.2
+Pennsylvania,2009,True,54.5,44.2
+Pennsylvania,2010,True,54.5,44.2
+Pennsylvania,2011,True,54.5,44.2
+Pennsylvania,2012,True,52.0,46.6
+Pennsylvania,2013,True,52.0,46.6
+Pennsylvania,2014,True,52.0,46.6
+Pennsylvania,2015,True,52.0,46.6
+Pennsylvania,2016,False,47.5,48.2
+Pennsylvania,2017,False,47.5,48.2
+Pennsylvania,2018,False,47.5,48.2
+Pennsylvania,2019,False,47.5,48.2
+Pennsylvania,2020,True,50.0,48.8
+Pennsylvania,2021,True,50.0,48.8
+Pennsylvania,2022,True,50.0,48.8
+Rhode Island,1976,True,55.4,44.1
+Rhode Island,1977,True,55.4,44.1
+Rhode Island,1978,True,55.4,44.1
+Rhode Island,1979,True,55.4,44.1
+Rhode Island,1980,True,47.7,37.2
+Rhode Island,1981,True,47.7,37.2
+Rhode Island,1982,True,47.7,37.2
+Rhode Island,1983,True,47.7,37.2
+Rhode Island,1984,False,48.0,51.7
+Rhode Island,1985,False,48.0,51.7
+Rhode Island,1986,False,48.0,51.7
+Rhode Island,1987,False,48.0,51.7
+Rhode Island,1988,True,55.6,43.9
+Rhode Island,1989,True,55.6,43.9
+Rhode Island,1990,True,55.6,43.9
+Rhode Island,1991,True,55.6,43.9
+Rhode Island,1992,True,47.0,29.0
+Rhode Island,1993,True,47.0,29.0
+Rhode Island,1994,True,47.0,29.0
+Rhode Island,1995,True,47.0,29.0
+Rhode Island,1996,True,59.7,26.8
+Rhode Island,1997,True,59.7,26.8
+Rhode Island,1998,True,59.7,26.8
+Rhode Island,1999,True,59.7,26.8
+Rhode Island,2000,True,61.0,31.9
+Rhode Island,2001,True,61.0,31.9
+Rhode Island,2002,True,61.0,31.9
+Rhode Island,2003,True,61.0,31.9
+Rhode Island,2004,True,59.4,38.7
+Rhode Island,2005,True,59.4,38.7
+Rhode Island,2006,True,59.4,38.7
+Rhode Island,2007,True,59.4,38.7
+Rhode Island,2008,True,62.9,35.1
+Rhode Island,2009,True,62.9,35.1
+Rhode Island,2010,True,62.9,35.1
+Rhode Island,2011,True,62.9,35.1
+Rhode Island,2012,True,62.7,35.2
+Rhode Island,2013,True,62.7,35.2
+Rhode Island,2014,True,62.7,35.2
+Rhode Island,2015,True,62.7,35.2
+Rhode Island,2016,True,54.4,38.9
+Rhode Island,2017,True,54.4,38.9
+Rhode Island,2018,True,54.4,38.9
+Rhode Island,2019,True,54.4,38.9
+Rhode Island,2020,True,59.4,38.6
+Rhode Island,2021,True,59.4,38.6
+Rhode Island,2022,True,59.4,38.6
+South Carolina,1976,True,56.2,43.1
+South Carolina,1977,True,56.2,43.1
+South Carolina,1978,True,56.2,43.1
+South Carolina,1979,True,56.2,43.1
+South Carolina,1980,False,48.0,49.6
+South Carolina,1981,False,48.0,49.6
+South Carolina,1982,False,48.0,49.6
+South Carolina,1983,False,48.0,49.6
+South Carolina,1984,False,35.6,63.6
+South Carolina,1985,False,35.6,63.6
+South Carolina,1986,False,35.6,63.6
+South Carolina,1987,False,35.6,63.6
+South Carolina,1988,False,37.6,61.5
+South Carolina,1989,False,37.6,61.5
+South Carolina,1990,False,37.6,61.5
+South Carolina,1991,False,37.6,61.5
+South Carolina,1992,False,39.9,48.0
+South Carolina,1993,False,39.9,48.0
+South Carolina,1994,False,39.9,48.0
+South Carolina,1995,False,39.9,48.0
+South Carolina,1996,False,44.0,49.8
+South Carolina,1997,False,44.0,49.8
+South Carolina,1998,False,44.0,49.8
+South Carolina,1999,False,44.0,49.8
+South Carolina,2000,False,40.9,56.8
+South Carolina,2001,False,40.9,56.8
+South Carolina,2002,False,40.9,56.8
+South Carolina,2003,False,40.9,56.8
+South Carolina,2004,False,40.9,58.0
+South Carolina,2005,False,40.9,58.0
+South Carolina,2006,False,40.9,58.0
+South Carolina,2007,False,40.9,58.0
+South Carolina,2008,False,44.9,53.9
+South Carolina,2009,False,44.9,53.9
+South Carolina,2010,False,44.9,53.9
+South Carolina,2011,False,44.9,53.9
+South Carolina,2012,False,44.1,54.6
+South Carolina,2013,False,44.1,54.6
+South Carolina,2014,False,44.1,54.6
+South Carolina,2015,False,44.1,54.6
+South Carolina,2016,False,40.7,54.9
+South Carolina,2017,False,40.7,54.9
+South Carolina,2018,False,40.7,54.9
+South Carolina,2019,False,40.7,54.9
+South Carolina,2020,False,43.4,55.1
+South Carolina,2021,False,43.4,55.1
+South Carolina,2022,False,43.4,55.1
+South Dakota,1976,False,48.9,50.4
+South Dakota,1977,False,48.9,50.4
+South Dakota,1978,False,48.9,50.4
+South Dakota,1979,False,48.9,50.4
+South Dakota,1980,False,31.7,60.5
+South Dakota,1981,False,31.7,60.5
+South Dakota,1982,False,31.7,60.5
+South Dakota,1983,False,31.7,60.5
+South Dakota,1984,False,36.5,63.0
+South Dakota,1985,False,36.5,63.0
+South Dakota,1986,False,36.5,63.0
+South Dakota,1987,False,36.5,63.0
+South Dakota,1988,False,46.5,52.9
+South Dakota,1989,False,46.5,52.9
+South Dakota,1990,False,46.5,52.9
+South Dakota,1991,False,46.5,52.9
+South Dakota,1992,False,37.1,40.7
+South Dakota,1993,False,37.1,40.7
+South Dakota,1994,False,37.1,40.7
+South Dakota,1995,False,37.1,40.7
+South Dakota,1996,False,43.0,46.5
+South Dakota,1997,False,43.0,46.5
+South Dakota,1998,False,43.0,46.5
+South Dakota,1999,False,43.0,46.5
+South Dakota,2000,False,37.6,60.3
+South Dakota,2001,False,37.6,60.3
+South Dakota,2002,False,37.6,60.3
+South Dakota,2003,False,37.6,60.3
+South Dakota,2004,False,38.4,59.9
+South Dakota,2005,False,38.4,59.9
+South Dakota,2006,False,38.4,59.9
+South Dakota,2007,False,38.4,59.9
+South Dakota,2008,False,44.8,53.2
+South Dakota,2009,False,44.8,53.2
+South Dakota,2010,False,44.8,53.2
+South Dakota,2011,False,44.8,53.2
+South Dakota,2012,False,39.9,57.9
+South Dakota,2013,False,39.9,57.9
+South Dakota,2014,False,39.9,57.9
+South Dakota,2015,False,39.9,57.9
+South Dakota,2016,False,31.7,61.5
+South Dakota,2017,False,31.7,61.5
+South Dakota,2018,False,31.7,61.5
+South Dakota,2019,False,31.7,61.5
+South Dakota,2020,False,35.6,61.8
+South Dakota,2021,False,35.6,61.8
+South Dakota,2022,False,35.6,61.8
+Tennessee,1976,True,55.9,42.9
+Tennessee,1977,True,55.9,42.9
+Tennessee,1978,True,55.9,42.9
+Tennessee,1979,True,55.9,42.9
+Tennessee,1980,False,48.4,48.7
+Tennessee,1981,False,48.4,48.7
+Tennessee,1982,False,48.4,48.7
+Tennessee,1983,False,48.4,48.7
+Tennessee,1984,False,41.6,57.8
+Tennessee,1985,False,41.6,57.8
+Tennessee,1986,False,41.6,57.8
+Tennessee,1987,False,41.6,57.8
+Tennessee,1988,False,41.6,57.9
+Tennessee,1989,False,41.6,57.9
+Tennessee,1990,False,41.6,57.9
+Tennessee,1991,False,41.6,57.9
+Tennessee,1992,True,47.1,42.4
+Tennessee,1993,True,47.1,42.4
+Tennessee,1994,True,47.1,42.4
+Tennessee,1995,True,47.1,42.4
+Tennessee,1996,True,48.0,45.6
+Tennessee,1997,True,48.0,45.6
+Tennessee,1998,True,48.0,45.6
+Tennessee,1999,True,48.0,45.6
+Tennessee,2000,False,47.3,51.2
+Tennessee,2001,False,47.3,51.2
+Tennessee,2002,False,47.3,51.2
+Tennessee,2003,False,47.3,51.2
+Tennessee,2004,False,42.5,56.8
+Tennessee,2005,False,42.5,56.8
+Tennessee,2006,False,42.5,56.8
+Tennessee,2007,False,42.5,56.8
+Tennessee,2008,False,41.8,56.9
+Tennessee,2009,False,41.8,56.9
+Tennessee,2010,False,41.8,56.9
+Tennessee,2011,False,41.8,56.9
+Tennessee,2012,False,39.1,59.5
+Tennessee,2013,False,39.1,59.5
+Tennessee,2014,False,39.1,59.5
+Tennessee,2015,False,39.1,59.5
+Tennessee,2016,False,34.7,60.7
+Tennessee,2017,False,34.7,60.7
+Tennessee,2018,False,34.7,60.7
+Tennessee,2019,False,34.7,60.7
+Tennessee,2020,False,37.5,60.7
+Tennessee,2021,False,37.5,60.7
+Tennessee,2022,False,37.5,60.7
+Texas,1976,True,51.1,48.0
+Texas,1977,True,51.1,48.0
+Texas,1978,True,51.1,48.0
+Texas,1979,True,51.1,48.0
+Texas,1980,False,41.4,55.3
+Texas,1981,False,41.4,55.3
+Texas,1982,False,41.4,55.3
+Texas,1983,False,41.4,55.3
+Texas,1984,False,36.1,63.6
+Texas,1985,False,36.1,63.6
+Texas,1986,False,36.1,63.6
+Texas,1987,False,36.1,63.6
+Texas,1988,False,43.4,56.0
+Texas,1989,False,43.4,56.0
+Texas,1990,False,43.4,56.0
+Texas,1991,False,43.4,56.0
+Texas,1992,False,37.1,40.6
+Texas,1993,False,37.1,40.6
+Texas,1994,False,37.1,40.6
+Texas,1995,False,37.1,40.6
+Texas,1996,False,43.8,48.8
+Texas,1997,False,43.8,48.8
+Texas,1998,False,43.8,48.8
+Texas,1999,False,43.8,48.8
+Texas,2000,False,38.0,59.3
+Texas,2001,False,38.0,59.3
+Texas,2002,False,38.0,59.3
+Texas,2003,False,38.0,59.3
+Texas,2004,False,38.2,61.1
+Texas,2005,False,38.2,61.1
+Texas,2006,False,38.2,61.1
+Texas,2007,False,38.2,61.1
+Texas,2008,False,43.7,55.5
+Texas,2009,False,43.7,55.5
+Texas,2010,False,43.7,55.5
+Texas,2011,False,43.7,55.5
+Texas,2012,False,41.4,57.2
+Texas,2013,False,41.4,57.2
+Texas,2014,False,41.4,57.2
+Texas,2015,False,41.4,57.2
+Texas,2016,False,43.2,52.2
+Texas,2017,False,43.2,52.2
+Texas,2018,False,43.2,52.2
+Texas,2019,False,43.2,52.2
+Texas,2020,False,46.5,52.1
+Texas,2021,False,46.5,52.1
+Texas,2022,False,46.5,52.1
+Utah,1976,False,33.7,62.4
+Utah,1977,False,33.7,62.4
+Utah,1978,False,33.7,62.4
+Utah,1979,False,33.7,62.4
+Utah,1980,False,20.6,72.8
+Utah,1981,False,20.6,72.8
+Utah,1982,False,20.6,72.8
+Utah,1983,False,20.6,72.8
+Utah,1984,False,24.7,74.5
+Utah,1985,False,24.7,74.5
+Utah,1986,False,24.7,74.5
+Utah,1987,False,24.7,74.5
+Utah,1988,False,32.1,66.2
+Utah,1989,False,32.1,66.2
+Utah,1990,False,32.1,66.2
+Utah,1991,False,32.1,66.2
+Utah,1992,False,24.7,43.4
+Utah,1993,False,24.7,43.4
+Utah,1994,False,24.7,43.4
+Utah,1995,False,24.7,43.4
+Utah,1996,False,33.3,54.4
+Utah,1997,False,33.3,54.4
+Utah,1998,False,33.3,54.4
+Utah,1999,False,33.3,54.4
+Utah,2000,False,26.3,66.8
+Utah,2001,False,26.3,66.8
+Utah,2002,False,26.3,66.8
+Utah,2003,False,26.3,66.8
+Utah,2004,False,26.0,71.5
+Utah,2005,False,26.0,71.5
+Utah,2006,False,26.0,71.5
+Utah,2007,False,26.0,71.5
+Utah,2008,False,34.4,62.6
+Utah,2009,False,34.4,62.6
+Utah,2010,False,34.4,62.6
+Utah,2011,False,34.4,62.6
+Utah,2012,False,24.8,72.8
+Utah,2013,False,24.8,72.8
+Utah,2014,False,24.8,72.8
+Utah,2015,False,24.8,72.8
+Utah,2016,False,27.5,45.5
+Utah,2017,False,27.5,45.5
+Utah,2018,False,27.5,45.5
+Utah,2019,False,27.5,45.5
+Utah,2020,False,37.7,58.1
+Utah,2021,False,37.7,58.1
+Utah,2022,False,37.7,58.1
+Vermont,1976,False,43.1,54.3
+Vermont,1977,False,43.1,54.3
+Vermont,1978,False,43.1,54.3
+Vermont,1979,False,43.1,54.3
+Vermont,1980,False,38.4,44.4
+Vermont,1981,False,38.4,44.4
+Vermont,1982,False,38.4,44.4
+Vermont,1983,False,38.4,44.4
+Vermont,1984,False,40.8,57.9
+Vermont,1985,False,40.8,57.9
+Vermont,1986,False,40.8,57.9
+Vermont,1987,False,40.8,57.9
+Vermont,1988,False,47.6,51.1
+Vermont,1989,False,47.6,51.1
+Vermont,1990,False,47.6,51.1
+Vermont,1991,False,47.6,51.1
+Vermont,1992,True,46.1,30.4
+Vermont,1993,True,46.1,30.4
+Vermont,1994,True,46.1,30.4
+Vermont,1995,True,46.1,30.4
+Vermont,1996,True,53.4,31.1
+Vermont,1997,True,53.4,31.1
+Vermont,1998,True,53.4,31.1
+Vermont,1999,True,53.4,31.1
+Vermont,2000,True,50.6,40.7
+Vermont,2001,True,50.6,40.7
+Vermont,2002,True,50.6,40.7
+Vermont,2003,True,50.6,40.7
+Vermont,2004,True,58.9,38.8
+Vermont,2005,True,58.9,38.8
+Vermont,2006,True,58.9,38.8
+Vermont,2007,True,58.9,38.8
+Vermont,2008,True,67.5,30.5
+Vermont,2009,True,67.5,30.5
+Vermont,2010,True,67.5,30.5
+Vermont,2011,True,67.5,30.5
+Vermont,2012,True,66.6,31.0
+Vermont,2013,True,66.6,31.0
+Vermont,2014,True,66.6,31.0
+Vermont,2015,True,66.6,31.0
+Vermont,2016,True,56.7,30.3
+Vermont,2017,True,56.7,30.3
+Vermont,2018,True,56.7,30.3
+Vermont,2019,True,56.7,30.3
+Vermont,2020,True,66.1,30.7
+Vermont,2021,True,66.1,30.7
+Vermont,2022,True,66.1,30.7
+Virginia,1976,False,48.0,49.3
+Virginia,1977,False,48.0,49.3
+Virginia,1978,False,48.0,49.3
+Virginia,1979,False,48.0,49.3
+Virginia,1980,False,40.3,53.0
+Virginia,1981,False,40.3,53.0
+Virginia,1982,False,40.3,53.0
+Virginia,1983,False,40.3,53.0
+Virginia,1984,False,37.1,62.3
+Virginia,1985,False,37.1,62.3
+Virginia,1986,False,37.1,62.3
+Virginia,1987,False,37.1,62.3
+Virginia,1988,False,39.2,59.7
+Virginia,1989,False,39.2,59.7
+Virginia,1990,False,39.2,59.7
+Virginia,1991,False,39.2,59.7
+Virginia,1992,False,40.6,45.0
+Virginia,1993,False,40.6,45.0
+Virginia,1994,False,40.6,45.0
+Virginia,1995,False,40.6,45.0
+Virginia,1996,False,45.2,47.1
+Virginia,1997,False,45.2,47.1
+Virginia,1998,False,45.2,47.1
+Virginia,1999,False,45.2,47.1
+Virginia,2000,False,44.4,52.5
+Virginia,2001,False,44.4,52.5
+Virginia,2002,False,44.4,52.5
+Virginia,2003,False,44.4,52.5
+Virginia,2004,False,45.5,53.7
+Virginia,2005,False,45.5,53.7
+Virginia,2006,False,45.5,53.7
+Virginia,2007,False,45.5,53.7
+Virginia,2008,True,52.6,46.3
+Virginia,2009,True,52.6,46.3
+Virginia,2010,True,52.6,46.3
+Virginia,2011,True,52.6,46.3
+Virginia,2012,True,51.2,47.3
+Virginia,2013,True,51.2,47.3
+Virginia,2014,True,51.2,47.3
+Virginia,2015,True,51.2,47.3
+Virginia,2016,True,49.7,44.4
+Virginia,2017,True,49.7,44.4
+Virginia,2018,True,49.7,44.4
+Virginia,2019,True,49.7,44.4
+Virginia,2020,True,54.1,44.0
+Virginia,2021,True,54.1,44.0
+Virginia,2022,True,54.1,44.0
+Washington,1976,False,46.1,50.0
+Washington,1977,False,46.1,50.0
+Washington,1978,False,46.1,50.0
+Washington,1979,False,46.1,50.0
+Washington,1980,False,37.3,49.7
+Washington,1981,False,37.3,49.7
+Washington,1982,False,37.3,49.7
+Washington,1983,False,37.3,49.7
+Washington,1984,False,42.9,55.8
+Washington,1985,False,42.9,55.8
+Washington,1986,False,42.9,55.8
+Washington,1987,False,42.9,55.8
+Washington,1988,True,50.1,48.5
+Washington,1989,True,50.1,48.5
+Washington,1990,True,50.1,48.5
+Washington,1991,True,50.1,48.5
+Washington,1992,True,43.4,32.0
+Washington,1993,True,43.4,32.0
+Washington,1994,True,43.4,32.0
+Washington,1995,True,43.4,32.0
+Washington,1996,True,49.8,37.3
+Washington,1997,True,49.8,37.3
+Washington,1998,True,49.8,37.3
+Washington,1999,True,49.8,37.3
+Washington,2000,True,50.2,44.6
+Washington,2001,True,50.2,44.6
+Washington,2002,True,50.2,44.6
+Washington,2003,True,50.2,44.6
+Washington,2004,True,52.8,45.6
+Washington,2005,True,52.8,45.6
+Washington,2006,True,52.8,45.6
+Washington,2007,True,52.8,45.6
+Washington,2008,True,57.7,40.5
+Washington,2009,True,57.7,40.5
+Washington,2010,True,57.7,40.5
+Washington,2011,True,57.7,40.5
+Washington,2012,True,56.2,41.3
+Washington,2013,True,56.2,41.3
+Washington,2014,True,56.2,41.3
+Washington,2015,True,56.2,41.3
+Washington,2016,True,52.5,36.8
+Washington,2017,True,52.5,36.8
+Washington,2018,True,52.5,36.8
+Washington,2019,True,52.5,36.8
+Washington,2020,True,58.0,38.8
+Washington,2021,True,58.0,38.8
+Washington,2022,True,58.0,38.8
+West Virginia,1976,True,58.1,41.9
+West Virginia,1977,True,58.1,41.9
+West Virginia,1978,True,58.1,41.9
+West Virginia,1979,True,58.1,41.9
+West Virginia,1980,True,49.8,45.3
+West Virginia,1981,True,49.8,45.3
+West Virginia,1982,True,49.8,45.3
+West Virginia,1983,True,49.8,45.3
+West Virginia,1984,False,44.6,55.1
+West Virginia,1985,False,44.6,55.1
+West Virginia,1986,False,44.6,55.1
+West Virginia,1987,False,44.6,55.1
+West Virginia,1988,True,52.2,47.5
+West Virginia,1989,True,52.2,47.5
+West Virginia,1990,True,52.2,47.5
+West Virginia,1991,True,52.2,47.5
+West Virginia,1992,True,48.4,35.4
+West Virginia,1993,True,48.4,35.4
+West Virginia,1994,True,48.4,35.4
+West Virginia,1995,True,48.4,35.4
+West Virginia,1996,True,51.5,36.8
+West Virginia,1997,True,51.5,36.8
+West Virginia,1998,True,51.5,36.8
+West Virginia,1999,True,51.5,36.8
+West Virginia,2000,False,45.6,51.9
+West Virginia,2001,False,45.6,51.9
+West Virginia,2002,False,45.6,51.9
+West Virginia,2003,False,45.6,51.9
+West Virginia,2004,False,43.2,56.1
+West Virginia,2005,False,43.2,56.1
+West Virginia,2006,False,43.2,56.1
+West Virginia,2007,False,43.2,56.1
+West Virginia,2008,False,42.6,55.7
+West Virginia,2009,False,42.6,55.7
+West Virginia,2010,False,42.6,55.7
+West Virginia,2011,False,42.6,55.7
+West Virginia,2012,False,35.5,62.3
+West Virginia,2013,False,35.5,62.3
+West Virginia,2014,False,35.5,62.3
+West Virginia,2015,False,35.5,62.3
+West Virginia,2016,False,26.4,68.5
+West Virginia,2017,False,26.4,68.5
+West Virginia,2018,False,26.4,68.5
+West Virginia,2019,False,26.4,68.5
+West Virginia,2020,False,29.7,68.6
+West Virginia,2021,False,29.7,68.6
+West Virginia,2022,False,29.7,68.6
+Wisconsin,1976,True,49.5,47.8
+Wisconsin,1977,True,49.5,47.8
+Wisconsin,1978,True,49.5,47.8
+Wisconsin,1979,True,49.5,47.8
+Wisconsin,1980,False,43.2,47.9
+Wisconsin,1981,False,43.2,47.9
+Wisconsin,1982,False,43.2,47.9
+Wisconsin,1983,False,43.2,47.9
+Wisconsin,1984,False,45.0,54.2
+Wisconsin,1985,False,45.0,54.2
+Wisconsin,1986,False,45.0,54.2
+Wisconsin,1987,False,45.0,54.2
+Wisconsin,1988,True,51.4,47.8
+Wisconsin,1989,True,51.4,47.8
+Wisconsin,1990,True,51.4,47.8
+Wisconsin,1991,True,51.4,47.8
+Wisconsin,1992,True,41.1,36.8
+Wisconsin,1993,True,41.1,36.8
+Wisconsin,1994,True,41.1,36.8
+Wisconsin,1995,True,41.1,36.8
+Wisconsin,1996,True,48.8,38.5
+Wisconsin,1997,True,48.8,38.5
+Wisconsin,1998,True,48.8,38.5
+Wisconsin,1999,True,48.8,38.5
+Wisconsin,2000,True,47.8,47.6
+Wisconsin,2001,True,47.8,47.6
+Wisconsin,2002,True,47.8,47.6
+Wisconsin,2003,True,47.8,47.6
+Wisconsin,2004,True,49.7,49.3
+Wisconsin,2005,True,49.7,49.3
+Wisconsin,2006,True,49.7,49.3
+Wisconsin,2007,True,49.7,49.3
+Wisconsin,2008,True,56.2,42.3
+Wisconsin,2009,True,56.2,42.3
+Wisconsin,2010,True,56.2,42.3
+Wisconsin,2011,True,56.2,42.3
+Wisconsin,2012,True,52.8,45.9
+Wisconsin,2013,True,52.8,45.9
+Wisconsin,2014,True,52.8,45.9
+Wisconsin,2015,True,52.8,45.9
+Wisconsin,2016,False,46.5,47.2
+Wisconsin,2017,False,46.5,47.2
+Wisconsin,2018,False,46.5,47.2
+Wisconsin,2019,False,46.5,47.2
+Wisconsin,2020,True,49.5,48.8
+Wisconsin,2021,True,49.5,48.8
+Wisconsin,2022,True,49.5,48.8
+Wyoming,1976,False,39.8,59.3
+Wyoming,1977,False,39.8,59.3
+Wyoming,1978,False,39.8,59.3
+Wyoming,1979,False,39.8,59.3
+Wyoming,1980,False,28.0,62.6
+Wyoming,1981,False,28.0,62.6
+Wyoming,1982,False,28.0,62.6
+Wyoming,1983,False,28.0,62.6
+Wyoming,1984,False,28.2,70.5
+Wyoming,1985,False,28.2,70.5
+Wyoming,1986,False,28.2,70.5
+Wyoming,1987,False,28.2,70.5
+Wyoming,1988,False,38.0,60.5
+Wyoming,1989,False,38.0,60.5
+Wyoming,1990,False,38.0,60.5
+Wyoming,1991,False,38.0,60.5
+Wyoming,1992,False,34.0,39.6
+Wyoming,1993,False,34.0,39.6
+Wyoming,1994,False,34.0,39.6
+Wyoming,1995,False,34.0,39.6
+Wyoming,1996,False,36.8,49.8
+Wyoming,1997,False,36.8,49.8
+Wyoming,1998,False,36.8,49.8
+Wyoming,1999,False,36.8,49.8
+Wyoming,2000,False,27.7,67.8
+Wyoming,2001,False,27.7,67.8
+Wyoming,2002,False,27.7,67.8
+Wyoming,2003,False,27.7,67.8
+Wyoming,2004,False,29.1,68.9
+Wyoming,2005,False,29.1,68.9
+Wyoming,2006,False,29.1,68.9
+Wyoming,2007,False,29.1,68.9
+Wyoming,2008,False,32.5,64.8
+Wyoming,2009,False,32.5,64.8
+Wyoming,2010,False,32.5,64.8
+Wyoming,2011,False,32.5,64.8
+Wyoming,2012,False,27.8,68.6
+Wyoming,2013,False,27.8,68.6
+Wyoming,2014,False,27.8,68.6
+Wyoming,2015,False,27.8,68.6
+Wyoming,2016,False,21.9,68.2
+Wyoming,2017,False,21.9,68.2
+Wyoming,2018,False,21.9,68.2
+Wyoming,2019,False,21.9,68.2
+Wyoming,2020,False,26.6,69.9
+Wyoming,2021,False,26.6,69.9
+Wyoming,2022,False,26.6,69.9
