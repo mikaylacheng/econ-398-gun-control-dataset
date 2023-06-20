@@ -78,7 +78,6 @@ esttab model1 model2 using clusterresults.rtf, replace
 
 
 
-f
 //EVENT STUDY
 //ssc install ftools
 //ssc install reghdfe
