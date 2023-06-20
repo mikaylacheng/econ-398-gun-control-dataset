@@ -3,7 +3,7 @@
 To create the full dataset from the data sources, run `python3 make_dataset.py`. This will create a file called `econ_gun_dataset.csv` in the `data` directory.
 
 ## Data Sources
-control data (educational attainment, race, and unemployment rate) - see attached .do files.
+control data (educational attainment, race, and unemployment rate) - see attached .do files in the controls folder.
 
 state_n_mass_shootings.json from https://www.statista.com/statistics/811541/mass-shootings-in-the-us-by-state/ total from 1982 to 2023
 
