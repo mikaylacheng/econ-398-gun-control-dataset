@@ -7,7 +7,6 @@ MAP_STATE_TO_ABBREV = {
     "Colorado": "CO",
     "Connecticut": "CT",
     "Delaware": "DE",
-    "District of Columbia": "DC",
     "Florida": "FL",
     "Georgia": "GA",
     "Hawaii": "HI",
@@ -52,6 +51,7 @@ MAP_STATE_TO_ABBREV = {
     "Wyoming": "WY",
 }
 MAP_ABBREV_TO_STATE = {v: k for k, v in MAP_STATE_TO_ABBREV.items()}
+MAP_STATE_TO_CODE = {k: i + 1 for i, k in enumerate(MAP_STATE_TO_ABBREV.keys())}
 STATES = sorted(list(MAP_STATE_TO_ABBREV.keys()), reverse=True)
 
 # Federal law Gun Control Act of 1968 requires background checks for 18+ years old for shotguns, rifles or ammo.
@@ -65,7 +65,6 @@ STATES_WITH_BG_CHECKS = [
         "CO",
         "CT",
         "DE",
-        "DC",
         "NV",
         "NM",
         "NJ",
@@ -97,6 +96,6 @@ STATE_BG_CHECK_YEAR_ENACTED = {
     "WA": 2014,
 }
 
-assert len(STATES) == 51, "Expected 51 states but got {}".format(len(STATES))
-assert len(STATES_WITH_BG_CHECKS) == 15
-assert len(MAP_STATE_TO_ABBREV) == 51
+assert len(STATES) == 50, "Expected 50 states (no D.C.) but got {}".format(len(STATES))
+assert len(STATES_WITH_BG_CHECKS) == 14
+assert len(MAP_STATE_TO_ABBREV) == 50

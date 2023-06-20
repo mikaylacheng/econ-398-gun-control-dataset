@@ -53,7 +53,7 @@ state_pop_by_year = pd.read_csv("data/state_pop_by_year.csv")
 state_pol_party_history = pd.read_csv("data/state_political_party_history.csv")
 state_med_income_by_year = pd.read_csv("data/state_median_income_by_year.csv")
 pub_mass_shooting_data = pd.read_csv("data/mass_shootings_wiki.csv")
-michelle_updated_gun = pd.read_csv("controls/updated_gun.csv")
+education_controls = pd.read_csv("data/education_controls.csv")
 other_controls = fill_in_copies(pd.read_excel("data/race_unemployment_controls.xlsx"))
 for year in range(1984, 2022):
     for abbrev, state in MAP_ABBREV_TO_STATE.items():
@@ -75,19 +75,21 @@ for year in range(1984, 2022):
 
         dataset.append(
             {
+                "year": year,
+                "statecode": MAP_STATE_TO_CODE[state],
                 "state_year": f"{state}_{year}",
                 "is_after_brady_bill_fed_check_law": int(year >= 1994),
                 "has_universal_background_checks": int(
                     STATE_BG_CHECK_YEAR_ENACTED.get(abbrev, 9999) <= year
                 ),
-                "education_attainment": michelle_updated_gun[
-                    michelle_updated_gun["state_year"] == f"{state}_{year}"
+                "education_attainment": education_controls[
+                    education_controls["state_year"] == f"{state}_{year}"
                 ].iloc[0]["bachelors_and_above_perc"],
-                "treatnew (21 states)": michelle_updated_gun[
-                    michelle_updated_gun["state_year"] == f"{state}_{year}"
+                "treatnew (21 states)": education_controls[
+                    education_controls["state_year"] == f"{state}_{year}"
                 ].iloc[0]["treatnew (21 states)"],
-                "treatyearnew": michelle_updated_gun[
-                    michelle_updated_gun["state_year"] == f"{state}_{year}"
+                "treatyearnew": education_controls[
+                    education_controls["state_year"] == f"{state}_{year}"
                 ].iloc[0]["treatyearnew"],
                 "is_dem_majority": int(relevant_pol_party_history.iloc[0].is_democrat),
                 "n_pub_mass_shooting_victims": relevant_pub_shootings["deaths"].sum()
