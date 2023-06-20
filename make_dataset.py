@@ -54,7 +54,7 @@ state_pol_party_history = pd.read_csv("data/state_political_party_history.csv")
 state_med_income_by_year = pd.read_csv("data/state_median_income_by_year.csv")
 pub_mass_shooting_data = pd.read_csv("data/mass_shootings_wiki.csv")
 michelle_updated_gun = pd.read_csv("controls/updated_gun.csv")
-other_controls = fill_in_copies(pd.read_excel("controls/othercontrols.xlsx"))
+other_controls = fill_in_copies(pd.read_excel("data/race_unemployment_controls.xlsx"))
 for year in range(1984, 2022):
     for abbrev, state in MAP_ABBREV_TO_STATE.items():
         if state == "District of Columbia":
